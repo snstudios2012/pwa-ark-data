@@ -1,0 +1,173 @@
+Pursuit ID,Pursuit Name,Pursuit Type,Category ,Card Reward ,Item Reward,Coin Reward
+DP-01,Collect dermis x1 from any wild creature,Daily,COLLECT ,Recolor Card,None,15
+DP-02,Collect Angler Gel x30,Daily,COLLECT ,Recolor Card,None,15
+DP-03,Collect Biotoxin x50,Daily,COLLECT ,Recolor Card,None,15
+DP-04,Collect Black Pearl x10,Daily,COLLECT ,Recolor Card,None,15
+DP-05,Collect Organic Polymer/Corrupted Nodule x30,Daily,COLLECT ,Recolor Card,None,15
+DP-06,Collect Sap x20,Daily,COLLECT ,Recolor Card,None,15
+DP-07,Collect Silk x25,Daily,COLLECT ,Recolor Card,None,15
+DP-08,Collect Green Gems x50,Daily,COLLECT ,Recolor Card,None,15
+DP-09,Collect Ambergris x25,Daily,COLLECT ,Recolor Card,None,15
+DP-10,Collect Mutagel x25,Daily,COLLECT ,Recolor Card,None,15
+DP-11,Obtain Artifact of Hunter ,Daily,OBTAIN,Tribute Item Draw Card,None,50
+DP-12,Obtain Artifact of Clever,Daily,OBTAIN,Tribute Item Draw Card,None,50
+DP-13,Obtain Artifact of Massive,Daily,OBTAIN,Tribute Item Selector Card,None,50
+DP-14,Obtain Artifact of Immune,Daily,OBTAIN,Tribute Item Selector Card,None,50
+DP-15,Obtain Artifact of Skylord,Daily,OBTAIN,Tribute Item Draw Card,None,50
+DP-16,Obtain Artifact of Strong,Daily,OBTAIN,Tribute Item Selector Card,None,50
+DP-17,Obtain Artifact of Devourer,Daily,OBTAIN,Tribute Item Draw Card,None,50
+DP-18,Obtain Artifact of Pack,Daily,OBTAIN,Tribute Item Selector Card,None,50
+DP-19,Obtain Artifact of Brute,Daily,OBTAIN,Tribute Item Selector Card,None,50
+DP-20,Obtain Artifact of Cunning,Daily,OBTAIN,Tribute Item Selector Card,None,50
+DP-21,Obtain Artifact of Crag,Daily,OBTAIN,Tribute Item Selector Card,None,50
+DP-22,Obtain Artifact of Destroyer ,Daily,OBTAIN,Tribute Item Draw Card,None,50
+DP-23,Obtain Artifact of Gatekeeper ,Daily,OBTAIN,Tribute Item Draw Card,None,50
+DP-24,Obtain Artifact of Devious,Daily,OBTAIN,Tribute Item Draw Card,None,50
+DP-25,Obtain Artifact of Depths,Daily,OBTAIN,Tribute Item Draw Card,None,50
+DP-26,Obtain Artifact of Shadows,Daily,OBTAIN,Tribute Item Selector Card,None,50
+DP-27,Obtain Artifact of Stalker,Daily,OBTAIN,Tribute Item Draw Card,None,50
+DP-28,Obtain Artifact of Chaos,Daily,OBTAIN,Tribute Item Draw Card,None,50
+DP-29,Obtain Artifact of Growth,Daily,OBTAIN,Tribute Item Draw Card,None,50
+DP-30,Obtain Artifact of Void,Daily,OBTAIN,Tribute Item Draw Card,None,50
+DP-31,Hatch an egg of Moschops,Daily,HATCH,Kibble Selector Card,None,20
+DP-32,Hatch an egg of Dodo,Daily,HATCH,Kibble Selector Card,None,20
+DP-33,Hatch an egg of Maewing,Daily,HATCH,Kibble Selector Card,None,20
+DP-34,Hatch an egg of Ankylo,Daily,HATCH,Kibble Selector Card,None,20
+DP-35,Hatch an egg of Featherlight,Daily,HATCH,Kibble Selector Card,None,20
+DP-36,Hunt Allosaurus x3,Daily,HUNT,Mutagen Card,None,25
+DP-37,Hunt Yutyrannus x2,Daily,HUNT,Mutagen Card,None,25
+DP-38,Hunt Alpha Raptor x1 ,Daily,HUNT,Mutagen Card,None,70
+DP-39,Hunt Microraptor x5 ,Daily,HUNT,Mutagen Card,None,25
+DP-40,Hunt Purlovia x5 ,Daily,HUNT,Mutagen Card,None,25
+DP-41,Hunt Troodon x2,Daily,HUNT,Mutagen Card,None,25
+DP-42,Hunt Mantis x3,Daily,HUNT,Mutagen Card,None,25
+DP-43,Hunt Kapro x10,Daily,HUNT,Mutagen Card,None,25
+DP-44,Hunt Leedsycthis x1,Daily,HUNT,Mutagen Card,None,25
+DP-45,Hunt Pego x5,Daily,HUNT,Mutagen Card,None,25
+DP-46,Hunt Ravager x4,Daily,HUNT,Mutagen Card,None,25
+DP-47,Hunt Velonosaur x5 ,Daily,HUNT,Mutagen Card,None,25
+DP-48,Survive for 5 minutes in Jungle,Daily,SURVIVE ,Mutated Egg Card,None,35
+DP-49,Survive for 5 minutes in Redwoods ,Daily,SURVIVE ,Mutated Egg Card,None,35
+DP-50,Survive for 5 minutes in Snow,Daily,SURVIVE ,Mutated Egg Card,None,35
+DP-51,Survive for 5 minutes in Arctic,Daily,SURVIVE ,Mutated Egg Card,None,35
+DP-52,Survive for 5 minutes in Ocean,Daily,SURVIVE ,Mutated Egg Card,None,35
+DP-53,Survive for 5 minutes in Swamp,Daily,SURVIVE ,Mutated Egg Card,None,35
+DP-54,Survive for 5 minutes in Bog,Daily,SURVIVE ,Mutated Egg Card,None,35
+DP-55,Survive for 5 minutes in Lunar Biome ,Daily,SURVIVE ,Mutated Egg Card,None,35
+DP-56,Survive for 5 minutes in Space Biome,Daily,SURVIVE ,Mutated Egg Card,None,35
+DP-57,Survive for 5 minutes in Mountain ,Daily,SURVIVE ,Mutated Egg Card,None,35
+DP-58,Survive for 5 minutes in Redzone,Daily,SURVIVE ,Mutated Egg Card,None,35
+DP-59,Survive for 5 minutes in Superheat,Daily,SURVIVE ,Mutated Egg Card,None,35
+DP-60,Survive for 5 minutes in Sandstorm ,Daily,SURVIVE ,Mutated Egg Card,None,35
+DP-61,Survive for 5 minutes in Lightning Storm,Daily,SURVIVE ,Mutated Egg Card,None,35
+DP-62,Survive for 5 minutes in Volcanic Eruption ,Daily,SURVIVE ,Mutated Egg Card,None,35
+DP-63,Survive for 5 minutes in Meteor Shower ,Daily,SURVIVE ,Mutated Egg Card,None,35
+DP-64,Tame a Baryonix ,Daily,TAME,Cryopod Card,None,30
+DP-65,Tame a Basilosaurus ,Daily,TAME,Cryopod Card,None,30
+DP-66,Tame a Dung Beetle,Daily,TAME,Cryopod Card,None,30
+DP-67,Tame a Mammoth,Daily,TAME,Cryopod Card,None,30
+DP-68,Tame an Ovis,Daily,TAME,Cryopod Card,None,30
+DP-69,Tame a Procoptodon ,Daily,TAME,Cryopod Card,None,30
+DP-70,Tame a Snow Owl,Daily,TAME,Cryopod Card,None,30
+DP-71,Tame a Shadowmane,Daily,TAME,Cryopod Card,None,30
+DP-72,Tame a Thylacoleo ,Daily,TAME,Cryopod Card,None,30
+DP-73,Tame a Velonosaur ,Daily,TAME,Cryopod Card,None,30
+REG-001,Find your dead body and get back stuff,One Time,Basic,None,cheat gfi HealSoup 10 0 0,25
+REG-002,Craft and equip stone pickaxe,One Time,Basic,None,cheat gfi StoneHatchet 1 0 0,25
+REG-003,Build campfire and cook meat x20,One Time,Basic,None,cheat gfi CookedMeat_Jerky 10 0 0,25
+REG-004,Lay on Bed,One Time,Basic,None,cheat gfi SleepBag 5 0 0,25
+REG-005,Cook Prime Meat x10,One Time,Basic,None,cheat gfi CookedPrimeMeat_Jerky 10 0 0,50
+REG-006,Thatch Base,One Time,Building,None,cheat gfi StorageBox_Small 1 0 0,100
+REG-007,Wooden Base,One Time,Building,None,cheat gfi StorageBox_Large 2 0 0,100
+REG-008,Stone Base,One Time,Building,None,cheat gfi CropPlot_Medium 4 0 0,100
+REG-009,Metal Base,One Time,Building,None,cheat gfi StorageBox_Huge 3 0 0,100
+REG-010,Tek Base,One Time,Building,None,cheat gfi DedicatedStorage 5 0 0,100
+REG-011,Cloth Armor,One Time,Clothing,None,cheat gfi FlakShirt 1 20 0,100
+REG-012,Hide Armor,One Time,Clothing,None,cheat gfi FlakShirt 1 20 0,100
+REG-013,Chitin Armor,One Time,Clothing,None,cheat gfi FlakShirt 1 20 0,100
+REG-014,Ghillie Armor,One Time,Clothing,None,cheat gfi FlakShirt 1 20 0,100
+REG-015,Fur Armor,One Time,Clothing,None,cheat gfi FlakShirt 1 20 0,100
+REG-016,Flak Armor,One Time,Clothing,None,cheat gfi FlakShirt 1 20 0,100
+REG-017,Riot Armor,One Time,Clothing,None,cheat gfi FlakShirt 1 20 0,100
+REG-018,Tek Armor,One Time,Clothing,None,cheat gfi FlakShirt 1 20 0,100
+REG-019,Desert Armor,One Time,Clothing,None,cheat gfi FlakShirt 1 20 0,100
+REG-020,Hazard Armor,One Time,Clothing,None,cheat gfi FlakShirt 1 20 0,100
+REG-021,Dilo x5,One Time,Hunt,None,cheat gfi Bow 1 20 0,100
+REG-022,Pelagornis x3,One Time,Hunt,None,cheat gfi Pike 1 20 0,100
+REG-023,Hesperornis x3,One Time,Hunt,None,cheat gfi ArrowTranq 100 0 0,100
+REG-024,Baryonix x3,One Time,Hunt,None,cheat gfi Crossbow 1 20 0,100
+REG-025,Carno x3,One Time,Hunt,None,cheat gfi RexSaddle 1 20 0,100
+REG-026,Ichthyornis x3,One Time,Hunt,None,cheat gfi ArgentSaddle 1 20 0,100
+REG-027,Rhynio x1,One Time,Hunt,None,cheat gfi OneShotRifle 1 20 0,100
+REG-028,Giga/Carcha x1,One Time,Hunt,None,cheat gfi MachinedShotgun 1 20 0,100
+REG-029,Tuso x1,One Time,Hunt,None,cheat gfi HarpoonGun 1 20 0,100
+REG-030,Cook Basic Kibble,One Time,TAMING,None,cheat gfi Rockarrot 10 0 0,100
+REG-031,Cook Simple Kibble,One Time,TAMING,None,cheat gfi Longgrass 10 0 0,100
+REG-032,Cook Regular Kibble,One Time,TAMING,None,cheat gfi Sap 10 0 0,100
+REG-033,Cook Superior Kibble,One Time,TAMING,None,cheat gfi FocalChili 1 0 0,100
+REG-034,Cook Exceptional Kibble,One Time,TAMING,None,cheat gfi Honey 10 0 0,100
+REG-035,Cook Extraordinary Kibble,One Time,TAMING,None,cheat gfi Egg_Golden 10 0 0,100
+REG-036,Doedicurus,One Time,TAMING,None,cheat gfi AnkyloSaddle 1 20 0,100
+REG-037,Ichthyosaurus,One Time,TAMING,None,cheat gfi EquusSaddle 1 20 0,100
+REG-038,Maewing,One Time,TAMING,None,cheat gfi MagnifyingGlass 1 0 0,100
+REG-039,Equus,One Time,TAMING,None,cheat gfi Mannequin 2 0 0,100
+REG-040,Stegosaurus,One Time,TAMING,None,cheat gfi Sickle 1 20 0,100
+REG-041,Argentavis,One Time,TAMING,None,cheat gfi TranqDart 100 0 0,100
+REG-042,Yutyrannus,One Time,TAMING,None,cheat gfi Kibble_Special 5 0 0,100
+REG-043,Dung beetle,One Time,TAMING,None,cheat gfi Fertilizer 20 0 0,100
+REG-044,Baryonix,One Time,TAMING,None,cheat gfi ScubaShirt 1 20 0,100
+REG-045,Mammoth,One Time,TAMING,None,cheat gfi TreePlatform_Wood 1 0 0,100
+REG-046,Carcha,One Time,TAMING,None,cheat gfi RefinedTranqDart 100 0 0,100
+REG-047,Titan (any one of Ice/forest/desert),One Time,TAMING,None,cheat gfi Spawner_Mek 1 20 0,100
+REG-048,Magmasaur,One Time,TAMING,None,cheat gfi ElementShard 100 0 0,100
+REG-049,Rockdrake,One Time,TAMING,None,cheat gfi EggIncubator 3 0 0,100
+REG-050,Wyvern,One Time,TAMING,None,cheat gfi Flamethrower 1 20 0,100
+REG-051,Reaper,One Time,TAMING,None,cheat gfi RockDrakeSaddle 1 20 0,100
+REG-052,Enter Caves,One Time,Travelling,None,cheat AddExperience 100 0 1,200
+REG-053,Locate Obelisks,One Time,Travelling,None,cheat AddExperience 250 0 1,200
+REG-054,Grand Voyage ( full round of map),One Time,Travelling,None,cheat gfi FlakPants 1 20 0,200
+REG-055,Locate Tek Cave,One Time,Travelling,None,cheat gfi CarchaSaddle 1 20 0,200
+REG-056,Visit Scar (Scorched Earth),One Time,Travelling,None,cheat gfi CactusBuffSoup 10 0 0,200
+REG-057,Visit murder snow (Ragnarok),One Time,Travelling,None,cheat gfi FriaCurry 10 0 0,200
+REG-058,Visit Surface (Aberration),One Time,Travelling,None,"cheat gmsummon ""LanternPug_Character_BP_C"" 150",200
+REG-059,Visit Forbidden Zone (Extinction),One Time,Travelling,None,cheat gfi GigaSaddle 1 20 1,200
+REG-060,Visit Lunar Biome (Gen 1),One Time,Travelling,None,cheat gfi Glider 1 20 0,200
+REG-061,Visit Rockwell innards (Gen 2),One Time,Travelling,None,cheat gfi Mutagen 100 0 0,200
+REG-062,Hunter,One Time,Artifact,None,cheat gfi ApexDrop_Argentavis 5 0 0,250
+REG-063,Clever,One Time,Artifact,None,cheat gfi ApexDrop_Sarco 5 0 0,250
+REG-064,Massive,One Time,Artifact,None,cheat gfi ApexDrop_Boa 5 0 0,250
+REG-065,Immune,One Time,Artifact,None,cheat gfi ApexDrop_Tuso 5 0 0,250
+REG-066,Skylord,One Time,Artifact,None,cheat gfi ApexDrop_Yuty 5 0 0,250
+REG-067,Strong,One Time,Artifact,None,cheat gfi ApexDrop_Rex 5 0 0,250
+REG-068,Devourer,One Time,Artifact,None,cheat gfi ApexDrop_Thylaco 5 0 0,250
+REG-069,Pack,One Time,Artifact,None,cheat gfi ApexDrop_Megalodon 5 0 0,250
+REG-070,Brute,One Time,Artifact,None,cheat gfi ApexDrop_Therizino 5 0 0,250
+REG-071,Cunning,One Time,Artifact,None,cheat gfi ApexDrop_Allo 5 0 0,250
+REG-072,Crag,One Time,Artifact,None,cheat gfi ApexDrop_Wyvern_Fire 10 0 0,250
+REG-073,Destroyer,One Time,Artifact,None,cheat gfi ApexDrop_Wyvern_Lightning 10 0 0,250
+REG-074,Gatekeeper,One Time,Artifact,None,cheat gfi ApexDrop_Wyvern_Poison 10 0 0,250
+REG-075,Devious,One Time,Artifact,None,cheat gfi ApexDrop_Basilo 10 0 0,250
+REG-076,Depths,One Time,Artifact,None,cheat gfi ApexDrop_Basilisk 4 0 0,250
+REG-077,Shadows,One Time,Artifact,None,cheat gfi NamelessVenom 12 0 0,250
+REG-078,Stalker,One Time,Artifact,None,cheat gfi ApexDrop_ReaperPheromone 2 0 0,250
+REG-079,Chaos,One Time,Artifact,None,cheat gfi ApexDrop_CorruptHeart 100 0 0,250
+REG-080,Growth,One Time,Artifact,None,cheat gfi ApexDrop_CorruptHeart 100 0 0,250
+REG-081,Void,One Time,Artifact,None,cheat gfi ApexDrop_CorruptHeart 100 0 0,250
+REG-082,Archaeopteryx,One Time,Search,Cryopod Card,None,250
+REG-083,Basilisk,One Time,Search,Cryopod Card,None,250
+REG-084,Bloodstalker,One Time,Search,Cryopod Card,None,250
+REG-085,Deathworm,One Time,Search,Cryopod Card,None,250
+REG-086,Ferox,One Time,Search,Cryopod Card,None,250
+REG-087,Lamprey,One Time,Search,Cryopod Card,None,250
+REG-088,Liopleurodon,One Time,Search,Cryopod Card,None,250
+REG-089,Megachelon,One Time,Search,Cryopod Card,None,250
+REG-090,Noglin,One Time,Search,Cryopod Card,None,250
+REG-091,Phoenix,One Time,Search,Cryopod Card,None,250
+REG-092,Quetz,One Time,Search,Cryopod Card,None,250
+REG-093,Reaper,One Time,Search,Cryopod Card,None,250
+REG-094,Rock elemental,One Time,Search,Cryopod Card,None,250
+REG-095,Shinehorn,One Time,Search,Cryopod Card,None,250
+REG-096,Thylacoleo,One Time,Search,Cryopod Card,None,250
+REG-097,Unicorn,One Time,Search,Cryopod Card,None,250
+REG-098,Voidwyrm,One Time,Search,Cryopod Card,None,250
+W-01,Defeat any one Boss,Weekly,Boss,Blueprint Selector Card ,None,1000

@@ -1,0 +1,46 @@
+Card Name,Card Type,Reward Category,Requires Quality?,Requires User input?
+Primitive Resource Card,Normal,Primitive Resource Pack,NO,NO
+Ramshackle Resource Card,Normal,Ramshackle Resource Pack,NO,NO
+Apprentice Resource Card,Normal,Apprentice Resource Pack,NO,NO
+Journeyman Resource Card,Normal,Journeyman Resource Pack,NO,NO
+Mastercraft Resource Card,Normal,Mastercraft Resource Pack,NO,NO
+Ascendant Resource Card,Normal,Ascendant Resource Pack,NO,NO
+Recolor Card,Normal,Recolor,NO,YES
+Cryopod Card,Normal,Cryopod,NO,NO
+Mutagen Card,Normal,Mutagen,NO,NO
+Mutated Egg Card,Normal,Mutated Egg,NO,NO
+Tame Effectiveness Reset Card,Normal,Reset Effectiveness,NO,NO
+Kibble Selector Card,Selector,Kibble,NO,YES
+Kibble Draw Card,Draw,Kibble,NO,NO
+Tribute Item Selector Card,Selector,ApexDrops,NO,YES 
+Tribute Item Draw Card,Draw,ApexDrops,NO,NO
+Blueprint Selector Card,Selector,Blueprint,YES,YES 
+Blueprint Draw Card,Draw,Blueprint,YES,NO
+Saddle Selector Card,Selector,Saddle,YES,YES
+Saddle Draw Card,Draw,Saddle,YES,NO
+Skin Draw Card,Draw,Skin,NO,YES
+Skin Selector Card,Selector,Skin,NO,YES
+Boss Teleport Selector Card (Gamma),Selector,BossGamma,NO,YES
+Boss Teleport Selector Card (Beta),Selector,BossBeta,NO,YES
+Boss Teleport Selector Card (Alpha),Selector,BossAlpha,NO,YES
+Mission Bypass Card,Normal,DebugAllowVRMissionTeleport,NO,NO
+Hairstyle Selector Card ,Selector,Hairstyle,NO,YES
+Facial Hairstyle Selector Card ,Selector ,Facial Hairstyle,NO,YES
+Emote Selector Card,Selector ,Emote,NO,YES
+Emote Draw Card,Draw,Emote,NO,NO
+Dino Costume Draw Card,Selector,Costume,NO,NO
+Tame License Selector Card,Selector,Tames,NO,YES
+Tame License Draw Card,Draw,Tames,NO,NO
+Chibi License Selector Card,Selector,Chibi,NO,YES
+Chibi License Draw Card,Draw,Chibi,NO,NO
+Insta Growth Card,Normal,Growth,NO,NO
+Insta Imprint Card,Normal,Imprint,NO,NO
+Space Crate Selector Card,Normal,Crate,NO,YES
+Insta Level Card,Normal,Level UP,NO,YES
+Insta Level AOE Card,Normal,Level Up AOE,NO,YES
+Insta Heal Card,Normal,Healing,NO,NO
+Time Selector Card,Normal,Time,NO,YES
+Wild Wipe Card,Normal,Wipe,NO,NO
+Weather Control Card,Selector,Weather,NO,YES
+Start Horde,Normal,Horde,NO,YES
+Teleport To Horde,Normal,Teleport,NO,YES

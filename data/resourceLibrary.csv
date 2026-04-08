@@ -1,0 +1,50 @@
+Resource Name,Tier,GFI Name,Suggested Base Qty,Stack Size
+Cactus Sap,Primitive,CactusSap,1000,100
+Fiber,Primitive,Fiber,1000,300
+Flint,Primitive,Flint,1000,100
+Hide,Primitive,Hide,1000,200
+Sand,Primitive,Sand,1000,100
+Stone,Primitive,Stone,1000,100
+Thatch,Primitive,Thatch,1000,200
+Wood,Primitive,Wood,1000,100
+Fungal Wood,Primitive,Wood_Fungal,1000,100
+Bio Toxin,Ramshackle,BioToxin,100,100
+Charcoal,Ramshackle,Charcoal,500,100
+Chitin,Ramshackle,Chitin,500,100
+Keratin,Ramshackle,Keratin,500,100
+Metal,Ramshackle,Metal,900,300
+Clay,Ramshackle,Clay,500,100
+Silk,Ramshackle,Silk,600,200
+Sparkpowder,Ramshackle,Sparkpowder,1000,100
+Green Gem,Ramshackle,Gem_Green,500,100
+Cementing Paste,Apprentice,ChitinPaste,1000,100
+Gunpowder,Apprentice,Gunpowder,1000,100
+Metal Ingot,Apprentice,Ingot,900,300
+Angler Gel,Apprentice,AnglerGel,500,100
+Silica Pearls,Apprentice,Silica,500,100
+Raw Salt,Apprentice,RawSalt,500,100
+Pelt,Journeyman,Pelt,1000,200
+Sulfur,Journeyman,Sulfur,500,100
+Sap,Journeyman,Sap,300,30
+Oil,Journeyman,Oil,1000,100
+Blue Gem,Journeyman,Gem_Blue,500,100
+Congealed Gas Ball,Journeyman,GasBall,500,100
+Electronics,Journeyman,Electronics,500,100
+Crystal,Journeyman,Crystal,1000,100
+Giant Bee Honey,Mastercraft,Honey,100,1
+Element Dust,Mastercraft,ElementDust,5000,1000
+Propellant,Mastercraft,Propellant,500,100
+Gasoline,Mastercraft,Gasoline,500,100
+Obsidian,Mastercraft,Obsidian,1000,100
+Preserving Salt,Mastercraft,PreservingSalt,30,6
+Element Ore,Mastercraft,ElementOre,1000,100
+Leech Blood,Mastercraft,LeechBlood,250,50
+Black Pearl,Ascendant,BlackPearl,1000,200
+Element,Ascendant,Element,50,100
+Element Shard,Ascendant,ElementShard,1000,1000
+Polymer,Ascendant,Polymer,500,100
+Ambergris,Ascendant,Ambergris,100,1
+Red Gem,Ascendant,Gem_Red,500,100
+Shell Fragment,Ascendant,ShellFragment,1000,100
+Ammonite Bile,Ascendant,AmmoniteBile,100,50
+Absorbent Substrate,Ascendant,Substrate,100,100
