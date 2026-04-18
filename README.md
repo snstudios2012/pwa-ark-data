@@ -1,20 +1,19 @@
-# pwa-ark-data
-A place to store images and files for PWA-Ark
 # Ark Companion Assets
-This repository serves as a static CDN for the Ark Companion PWA.
+This repository acts as a CDN for the Ark Companion PWA.
 
-## Sources & Credits
-The data and images contained here are sourced from the following community projects:
+## Data Sources & Attribution
+The files in this repository were sourced from the **ARK Smart Breeding (ASE Legacy)** project.
 
-### 1. Game Data (JSON)
-The species values, stat multipliers, and database files are derived from the **ARK Smart Breeding** project.
-* **Source:** [cadon/ARKStatsExtractor](https://github.com/cadon/ARKStatsExtractor/archive/refs/tags/v0.56.3.zip)
-* **License:** MIT (See ASB_LICENSE.txt)
+* **Original Project:** [cadon/ARKStatsExtractor](https://github.com/cadon/ARKStatsExtractor/)
+* **Specific Release Used:** [Release v0.56.3](https://github.com/cadon/ARKStatsExtractor/archive/refs/tags/v0.56.3.zip)
+* **License:** Distributed under the MIT License (See `ASB_LICENSE.txt`)
 
-### 2. Species & Chibi Images
-* **Chibi Icons:** Sourced from [ark.wiki.gg](https://ark.wiki.gg/) under the Creative Commons BY-NC-SA 3.0 license.
-* **Species Portraits:** Originally extracted/compiled by the ARK Smart Breeding contributors.
+## Folder Breakdown
+| Local Folder | Description | Source Note |
+| :--- | :--- | :--- |
+| `/data` | Species values & Stat multipliers | From ASB Release `values` folder |
+| `/assets/tames` | Dinosaur Species Icons | From ASB Release `speciesImage` folder |
+| `/assets/chibis` | Chibi Icons | Sourced from [ark.wiki.gg](https://ark.wiki.gg/wiki/Chibis) (CC BY-NC-SA 3.0) |
 
 ## Legal Disclaimer
-This repository is a fan-made resource. 
-**Studio Wildcard** holds all rights to ARK: Survival Evolved trademarks and copyrighted works. These assets are used under Fair Use/Fan Content principles and are not for commercial use.
+Portions of the materials used are trademarks and/or copyrighted works of Studio Wildcard. All rights reserved by Studio Wildcard. This material is not official and is not endorsed by Studio Wildcard.
