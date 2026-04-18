@@ -8,7 +8,7 @@ The data and images contained here are sourced from the following community proj
 
 ### 1. Game Data (JSON)
 The species values, stat multipliers, and database files are derived from the **ARK Smart Breeding** project.
-* **Source:** [cadon/ARKStatsExtractor](https://github.com/cadon/ARKStatsExtractor/)
+* **Source:** [cadon/ARKStatsExtractor](https://github.com/cadon/ARKStatsExtractor/archive/refs/tags/v0.56.3.zip)
 * **License:** MIT (See ASB_LICENSE.txt)
 
 ### 2. Species & Chibi Images
