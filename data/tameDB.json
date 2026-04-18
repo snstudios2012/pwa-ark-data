@@ -1,0 +1,1271 @@
+[
+  {
+    "id": "achatina",
+    "name": "Achatina",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Passive Cementing Paste"
+  },
+  {
+    "id": "allosaurus",
+    "name": "Allosaurus",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 3,
+    "role": "Pack Damage"
+  },
+  {
+    "id": "anglerfish",
+    "name": "Anglerfish",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Silica Pearl Farmer"
+  },
+  {
+    "id": "ankylosaurus",
+    "name": "Ankylosaurus",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Metal Farmer"
+  },
+  {
+    "id": "araneo",
+    "name": "Araneo",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Cave Niche"
+  },
+  {
+    "id": "archaeopteryx",
+    "name": "Archaeopteryx",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Glider"
+  },
+  {
+    "id": "argentavis",
+    "name": "Argentavis",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 3,
+    "role": "Utility King"
+  },
+  {
+    "id": "arthropluera",
+    "name": "Arthropluera",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Armor Shredder"
+  },
+  {
+    "id": "astrocetus",
+    "name": "Astrocetus",
+    "gameStage": "Endgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 5,
+    "role": "Space Whale"
+  },
+  {
+    "id": "astrodelphis",
+    "name": "Astrodelphis",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 4,
+    "role": "Space Jet"
+  },
+  {
+    "id": "baryonyx",
+    "name": "Baryonyx",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 3,
+    "role": "Cave Specialist"
+  },
+  {
+    "id": "basilisk",
+    "name": "Basilisk",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 4,
+    "role": "Heavy Transporter"
+  },
+  {
+    "id": "basilosaurus",
+    "name": "Basilosaurus",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 3,
+    "role": "Ocean Tank"
+  },
+  {
+    "id": "beelzebufo",
+    "name": "Beelzebufo",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "CP Farmer"
+  },
+  {
+    "id": "bloodstalker",
+    "name": "Bloodstalker",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 4,
+    "role": "High Mobility"
+  },
+  {
+    "id": "brontosaurus",
+    "name": "Brontosaurus",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 3,
+    "role": "Platform/Berries"
+  },
+  {
+    "id": "bulbdog",
+    "name": "Bulbdog",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Light Pet"
+  },
+  {
+    "id": "carbonemys",
+    "name": "Carbonemys",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Early Tank"
+  },
+  {
+    "id": "carcharodontosaurus",
+    "name": "Carcharodontosaurus",
+    "gameStage": "Endgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 5,
+    "role": "Horde Slayer"
+  },
+  {
+    "id": "carnotaurus",
+    "name": "Carnotaurus",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Mid-Tier Combat"
+  },
+  {
+    "id": "castoroides",
+    "name": "Castoroides",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Wood/Smithy"
+  },
+  {
+    "id": "chalicotherium",
+    "name": "Chalicotherium",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Artillery"
+  },
+  {
+    "id": "coelacanth",
+    "name": "Coelacanth",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Fish"
+  },
+  {
+    "id": "compy",
+    "name": "Compy",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Pet"
+  },
+  {
+    "id": "daeodon",
+    "name": "Daeodon",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 4,
+    "role": "Passive Healing"
+  },
+  {
+    "id": "desert_titan",
+    "name": "Desert Titan",
+    "gameStage": "Endgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 5,
+    "role": "Boss/Raid"
+  },
+  {
+    "id": "dilophosaurus",
+    "name": "Dilophosaurus",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Early Guard"
+  },
+  {
+    "id": "dimetrodon",
+    "name": "Dimetrodon",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Air Conditioner"
+  },
+  {
+    "id": "dimorphodon",
+    "name": "Dimorphodon",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Shoulder Guard"
+  },
+  {
+    "id": "diplocaulus",
+    "name": "Diplocaulus",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Oxygen Tank"
+  },
+  {
+    "id": "diplodocus",
+    "name": "Diplodocus",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Transport"
+  },
+  {
+    "id": "dire_bear",
+    "name": "Dire Bear",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 3,
+    "role": "All-Rounder"
+  },
+  {
+    "id": "direwolf",
+    "name": "Direwolf",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Scout"
+  },
+  {
+    "id": "dodo",
+    "name": "Dodo",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Eggs"
+  },
+  {
+    "id": "doedicurus",
+    "name": "Doedicurus",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Stone Farmer"
+  },
+  {
+    "id": "dung_beetle",
+    "name": "Dung Beetle",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Fertilizer"
+  },
+  {
+    "id": "dunkleosteus",
+    "name": "Dunkleosteus",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 3,
+    "role": "Oil/Stone Farmer"
+  },
+  {
+    "id": "electrophorus",
+    "name": "Electrophorus",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Underwater Stun"
+  },
+  {
+    "id": "enforcer",
+    "name": "Enforcer",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 3,
+    "role": "City Scout"
+  },
+  {
+    "id": "equus",
+    "name": "Equus",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Mobile Mortar"
+  },
+  {
+    "id": "eurypterid",
+    "name": "Eurypterid",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Black Pearls"
+  },
+  {
+    "id": "featherlight",
+    "name": "Featherlight",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Light Pet"
+  },
+  {
+    "id": "ferox",
+    "name": "Ferox",
+    "gameStage": "Endgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 4,
+    "role": "Combat Shapeshifter"
+  },
+  {
+    "id": "forest_titan",
+    "name": "Forest Titan",
+    "gameStage": "Endgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 5,
+    "role": "Boss/Raid"
+  },
+  {
+    "id": "gacha",
+    "name": "Gacha",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 4,
+    "role": "Resource Producer"
+  },
+  {
+    "id": "gallimimus",
+    "name": "Gallimimus",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Fast Transport"
+  },
+  {
+    "id": "gasbags",
+    "name": "Gasbags",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 3,
+    "role": "Heavy Weight"
+  },
+  {
+    "id": "giant_queen_bee",
+    "name": "Giant Queen Bee",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Honey Producer"
+  },
+  {
+    "id": "giganotosaurus",
+    "name": "Giganotosaurus",
+    "gameStage": "Endgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 5,
+    "role": "War Machine"
+  },
+  {
+    "id": "gigantopithecus",
+    "name": "Gigantopithecus",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Fiber/Thrower"
+  },
+  {
+    "id": "glowtail",
+    "name": "Glowtail",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Light Pet"
+  },
+  {
+    "id": "griffin",
+    "name": "Griffin",
+    "gameStage": "Endgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 4,
+    "role": "Aerial Combat"
+  },
+  {
+    "id": "hesperornis",
+    "name": "Hesperornis",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Polymer Eggs"
+  },
+  {
+    "id": "hyaenodon",
+    "name": "Hyaenodon",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Meat Preserver"
+  },
+  {
+    "id": "ice_titan",
+    "name": "Ice Titan",
+    "gameStage": "Endgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 5,
+    "role": "Boss/Raid"
+  },
+  {
+    "id": "ichthyornis",
+    "name": "Ichthyornis",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Thief"
+  },
+  {
+    "id": "ichthyosaurus",
+    "name": "Ichthyosaurus",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Fast Swim"
+  },
+  {
+    "id": "iguanodon",
+    "name": "Iguanodon",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Berry/Stamina"
+  },
+  {
+    "id": "jerboa",
+    "name": "Jerboa",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Weather Alert"
+  },
+  {
+    "id": "kairuku",
+    "name": "Kairuku",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Polymer"
+  },
+  {
+    "id": "kaprosuchus",
+    "name": "Kaprosuchus",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Swamp Scout"
+  },
+  {
+    "id": "karkinos",
+    "name": "Karkinos",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 4,
+    "role": "Heavy Lifter"
+  },
+  {
+    "id": "kentrosaurus",
+    "name": "Kentrosaurus",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Defense"
+  },
+  {
+    "id": "lamprey",
+    "name": "Lamprey",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Leech"
+  },
+  {
+    "id": "leech",
+    "name": "Leech",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Bait"
+  },
+  {
+    "id": "liopleurodon",
+    "name": "Liopleurodon",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 3,
+    "role": "Loot Buff"
+  },
+  {
+    "id": "lymantria",
+    "name": "Lymantria",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Silk/Slow"
+  },
+  {
+    "id": "lystrosaurus",
+    "name": "Lystrosaurus",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "XP Buff"
+  },
+  {
+    "id": "maewing",
+    "name": "Maewing",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 4,
+    "role": "Nursery/Travel"
+  },
+  {
+    "id": "magmasaur",
+    "name": "Magmasaur",
+    "gameStage": "Endgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 4,
+    "role": "Metal Forge"
+  },
+  {
+    "id": "mammoth",
+    "name": "Mammoth",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 3,
+    "role": "Wood Farmer"
+  },
+  {
+    "id": "managarmr",
+    "name": "Managarmr",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 4,
+    "role": "Mobility/Ice"
+  },
+  {
+    "id": "manta",
+    "name": "Manta",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Fast Swim"
+  },
+  {
+    "id": "mantis",
+    "name": "Mantis",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 3,
+    "role": "Tool User"
+  },
+  {
+    "id": "megachelon",
+    "name": "Megachelon",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 4,
+    "role": "Mobile Base"
+  },
+  {
+    "id": "megalania",
+    "name": "Megalania",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 3,
+    "role": "Wall Climber"
+  },
+  {
+    "id": "megaloceros",
+    "name": "Megaloceros",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Thatch Farmer"
+  },
+  {
+    "id": "megalodon",
+    "name": "Megalodon",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 3,
+    "role": "Ocean Combat"
+  },
+  {
+    "id": "megalosaurus",
+    "name": "Megalosaurus",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 3,
+    "role": "Night Combat"
+  },
+  {
+    "id": "megatherium",
+    "name": "Megatherium",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 3,
+    "role": "Bug Slayer"
+  },
+  {
+    "id": "mek",
+    "name": "Mek",
+    "gameStage": "Endgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 5,
+    "role": "Siege Machine"
+  },
+  {
+    "id": "mesopithecus",
+    "name": "Mesopithecus",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Poop Thrower"
+  },
+  {
+    "id": "microraptor",
+    "name": "Microraptor",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "PvP Stun"
+  },
+  {
+    "id": "morellatops",
+    "name": "Morellatops",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Water Tank"
+  },
+  {
+    "id": "mosasaurus",
+    "name": "Mosasaurus",
+    "gameStage": "Endgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 4,
+    "role": "Deep Sea Tank"
+  },
+  {
+    "id": "moschops",
+    "name": "Moschops",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Fiber/Harvest"
+  },
+  {
+    "id": "noglin",
+    "name": "Noglin",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 5,
+    "role": "Mind Control"
+  },
+  {
+    "id": "onyc",
+    "name": "Onyc",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Cave Guard"
+  },
+  {
+    "id": "otter",
+    "name": "Otter",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Insulation"
+  },
+  {
+    "id": "oviraptor",
+    "name": "Oviraptor",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Egg Buff"
+  },
+  {
+    "id": "ovis",
+    "name": "Ovis",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Mutton"
+  },
+  {
+    "id": "pachycephalosaurus",
+    "name": "Pachycephalosaurus",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Torpor"
+  },
+  {
+    "id": "pachyrhinosaurus",
+    "name": "Pachyrhinosaurus",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Camouflage"
+  },
+  {
+    "id": "paraceratherium",
+    "name": "Paraceratherium",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 3,
+    "role": "Platform Tank"
+  },
+  {
+    "id": "parasaur",
+    "name": "Parasaur",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Early Scout"
+  },
+  {
+    "id": "pegomastax",
+    "name": "Pegomastax",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Thief"
+  },
+  {
+    "id": "pelagornis",
+    "name": "Pelagornis",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Organic Poly"
+  },
+  {
+    "id": "phiomia",
+    "name": "Phiomia",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Poop Producer"
+  },
+  {
+    "id": "phoenix",
+    "name": "Phoenix",
+    "gameStage": "Endgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 5,
+    "role": "Living Forge"
+  },
+  {
+    "id": "piranha",
+    "name": "Piranha",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Fish"
+  },
+  {
+    "id": "plesiosaur",
+    "name": "Plesiosaur",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 4,
+    "role": "Deep Sea Scout"
+  },
+  {
+    "id": "procoptodon",
+    "name": "Procoptodon",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 3,
+    "role": "Travel/Pouches"
+  },
+  {
+    "id": "pteranodon",
+    "name": "Pteranodon",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Early Flier"
+  },
+  {
+    "id": "pulmonoscorpius",
+    "name": "Pulmonoscorpius",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Torpor"
+  },
+  {
+    "id": "purlovia",
+    "name": "Purlovia",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 3,
+    "role": "Hidden Trap"
+  },
+  {
+    "id": "quetzal",
+    "name": "Quetzal",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 4,
+    "role": "Heavy Flier"
+  },
+  {
+    "id": "raptor",
+    "name": "Raptor",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Early Combat"
+  },
+  {
+    "id": "ravager",
+    "name": "Ravager",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 3,
+    "role": "Zip-line Scout"
+  },
+  {
+    "id": "reaper",
+    "name": "Reaper",
+    "gameStage": "Endgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 5,
+    "role": "Alpha Tank"
+  },
+  {
+    "id": "rex",
+    "name": "Rex",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 4,
+    "role": "Boss Fighter"
+  },
+  {
+    "id": "rhyniognatha",
+    "name": "Rhyniognatha",
+    "gameStage": "Endgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 5,
+    "role": "Utility God"
+  },
+  {
+    "id": "rock_drake",
+    "name": "Rock Drake",
+    "gameStage": "Endgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 4,
+    "role": "Stealth/Climb"
+  },
+  {
+    "id": "rock_elemental",
+    "name": "Rock Elemental",
+    "gameStage": "Endgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 4,
+    "role": "Siege Tank"
+  },
+  {
+    "id": "roll_rat",
+    "name": "Roll Rat",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Wood/Travel"
+  },
+  {
+    "id": "sabertooth",
+    "name": "Sabertooth",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Hide Farmer"
+  },
+  {
+    "id": "sabertooth_salmon",
+    "name": "Sabertooth Salmon",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Fish Meat"
+  },
+  {
+    "id": "sarco",
+    "name": "Sarco",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "River Scout"
+  },
+  {
+    "id": "shadowmane",
+    "name": "Shadowmane",
+    "gameStage": "Endgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 5,
+    "role": "Stealth Killer"
+  },
+  {
+    "id": "shinehorn",
+    "name": "Shinehorn",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Light Pet"
+  },
+  {
+    "id": "snow_owl",
+    "name": "Snow Owl",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 4,
+    "role": "Healer"
+  },
+  {
+    "id": "spino",
+    "name": "Spino",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 4,
+    "role": "Water Combat"
+  },
+  {
+    "id": "stegosaurus",
+    "name": "Stegosaurus",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 3,
+    "role": "Armor Tank"
+  },
+  {
+    "id": "stryder",
+    "name": "Stryder",
+    "gameStage": "Endgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 5,
+    "role": "Resource God"
+  },
+  {
+    "id": "tapejara",
+    "name": "Tapejara",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 3,
+    "role": "Precision Flier"
+  },
+  {
+    "id": "terror_bird",
+    "name": "Terror Bird",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Gliding Scout"
+  },
+  {
+    "id": "therizinosaurus",
+    "name": "Therizinosaurus",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 4,
+    "role": "Fiber/Combat"
+  },
+  {
+    "id": "thorny_dragon",
+    "name": "Thorny Dragon",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Wood Farmer"
+  },
+  {
+    "id": "thylacoleo",
+    "name": "Thylacoleo",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 3,
+    "role": "Wall Climber"
+  },
+  {
+    "id": "titanoboa",
+    "name": "Titanoboa",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Eggs"
+  },
+  {
+    "id": "titanosaur",
+    "name": "Titanosaur",
+    "gameStage": "Endgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 5,
+    "role": "Siege Beast"
+  },
+  {
+    "id": "triceratops",
+    "name": "Triceratops",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 2,
+    "role": "Berry Tank"
+  },
+  {
+    "id": "trilobite",
+    "name": "Trilobite",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Chitin/Oil"
+  },
+  {
+    "id": "troodon",
+    "name": "Troodon",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Night Stun"
+  },
+  {
+    "id": "tusoteuthis",
+    "name": "Tusoteuthis",
+    "gameStage": "Endgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 5,
+    "role": "Ocean King"
+  },
+  {
+    "id": "unicorn",
+    "name": "Unicorn",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 3,
+    "role": "Rarity"
+  },
+  {
+    "id": "velonasaur",
+    "name": "Velonasaur",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 4,
+    "role": "Living Turret"
+  },
+  {
+    "id": "voidwyrm",
+    "name": "Voidwyrm",
+    "gameStage": "Endgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 4,
+    "role": "Tech Wyvern"
+  },
+  {
+    "id": "vulture",
+    "name": "Vulture",
+    "gameStage": "Early",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 1,
+    "role": "Meat Spoiler"
+  },
+  {
+    "id": "woolly_rhino",
+    "name": "Woolly Rhino",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 3,
+    "role": "Heavy Hitter"
+  },
+  {
+    "id": "wyvern",
+    "name": "Wyvern",
+    "gameStage": "Endgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 4,
+    "role": "Elemental Power"
+  },
+  {
+    "id": "yutyrannus",
+    "name": "Yutyrannus",
+    "gameStage": "Midgame",
+    "category": "License",
+    "type": "Tame",
+    "rarity": 4,
+    "role": "Battle Buff"
+  }
+]

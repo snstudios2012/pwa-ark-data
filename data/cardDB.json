@@ -1,0 +1,317 @@
+[
+  {
+    "card_name": "Primitive Resource Card",
+    "card_type": "Normal",
+    "reward_category": "Primitive Resource Pack",
+    "requires_quality": "NO",
+    "requires_user_input": "NO"
+  },
+  {
+    "card_name": "Ramshackle Resource Card",
+    "card_type": "Normal",
+    "reward_category": "Ramshackle Resource Pack",
+    "requires_quality": "NO",
+    "requires_user_input": "NO"
+  },
+  {
+    "card_name": "Apprentice Resource Card",
+    "card_type": "Normal",
+    "reward_category": "Apprentice Resource Pack",
+    "requires_quality": "NO",
+    "requires_user_input": "NO"
+  },
+  {
+    "card_name": "Journeyman Resource Card",
+    "card_type": "Normal",
+    "reward_category": "Journeyman Resource Pack",
+    "requires_quality": "NO",
+    "requires_user_input": "NO"
+  },
+  {
+    "card_name": "Mastercraft Resource Card",
+    "card_type": "Normal",
+    "reward_category": "Mastercraft Resource Pack",
+    "requires_quality": "NO",
+    "requires_user_input": "NO"
+  },
+  {
+    "card_name": "Ascendant Resource Card",
+    "card_type": "Normal",
+    "reward_category": "Ascendant Resource Pack",
+    "requires_quality": "NO",
+    "requires_user_input": "NO"
+  },
+  {
+    "card_name": "Recolor Card",
+    "card_type": "Normal",
+    "reward_category": "Recolor",
+    "requires_quality": "NO",
+    "requires_user_input": "YES"
+  },
+  {
+    "card_name": "Cryopod Card",
+    "card_type": "Normal",
+    "reward_category": "Cryopod",
+    "requires_quality": "NO",
+    "requires_user_input": "NO"
+  },
+  {
+    "card_name": "Mutagen Card",
+    "card_type": "Normal",
+    "reward_category": "Mutagen",
+    "requires_quality": "NO",
+    "requires_user_input": "NO"
+  },
+  {
+    "card_name": "Mutated Egg Card",
+    "card_type": "Normal",
+    "reward_category": "Mutated Egg",
+    "requires_quality": "NO",
+    "requires_user_input": "NO"
+  },
+  {
+    "card_name": "Tame Effectiveness Reset Card",
+    "card_type": "Normal",
+    "reward_category": "Reset Effectiveness",
+    "requires_quality": "NO",
+    "requires_user_input": "NO"
+  },
+  {
+    "card_name": "Kibble Selector Card",
+    "card_type": "Selector",
+    "reward_category": "Kibble",
+    "requires_quality": "NO",
+    "requires_user_input": "YES"
+  },
+  {
+    "card_name": "Kibble Draw Card",
+    "card_type": "Draw",
+    "reward_category": "Kibble",
+    "requires_quality": "NO",
+    "requires_user_input": "NO"
+  },
+  {
+    "card_name": "Tribute Item Selector Card",
+    "card_type": "Selector",
+    "reward_category": "ApexDrops",
+    "requires_quality": "NO",
+    "requires_user_input": "YES"
+  },
+  {
+    "card_name": "Tribute Item Draw Card",
+    "card_type": "Draw",
+    "reward_category": "ApexDrops",
+    "requires_quality": "NO",
+    "requires_user_input": "NO"
+  },
+  {
+    "card_name": "Blueprint Selector Card",
+    "card_type": "Selector",
+    "reward_category": "Blueprint",
+    "requires_quality": "YES",
+    "requires_user_input": "YES"
+  },
+  {
+    "card_name": "Blueprint Draw Card",
+    "card_type": "Draw",
+    "reward_category": "Blueprint",
+    "requires_quality": "YES",
+    "requires_user_input": "NO"
+  },
+  {
+    "card_name": "Saddle Selector Card",
+    "card_type": "Selector",
+    "reward_category": "Saddle",
+    "requires_quality": "YES",
+    "requires_user_input": "YES"
+  },
+  {
+    "card_name": "Saddle Draw Card",
+    "card_type": "Draw",
+    "reward_category": "Saddle",
+    "requires_quality": "YES",
+    "requires_user_input": "NO"
+  },
+  {
+    "card_name": "Skin Draw Card",
+    "card_type": "Draw",
+    "reward_category": "Skin",
+    "requires_quality": "NO",
+    "requires_user_input": "YES"
+  },
+  {
+    "card_name": "Skin Selector Card",
+    "card_type": "Selector",
+    "reward_category": "Skin",
+    "requires_quality": "NO",
+    "requires_user_input": "YES"
+  },
+  {
+    "card_name": "Boss Teleport Selector Card (Gamma)",
+    "card_type": "Selector",
+    "reward_category": "BossGamma",
+    "requires_quality": "NO",
+    "requires_user_input": "YES"
+  },
+  {
+    "card_name": "Boss Teleport Selector Card (Beta)",
+    "card_type": "Selector",
+    "reward_category": "BossBeta",
+    "requires_quality": "NO",
+    "requires_user_input": "YES"
+  },
+  {
+    "card_name": "Boss Teleport Selector Card (Alpha)",
+    "card_type": "Selector",
+    "reward_category": "BossAlpha",
+    "requires_quality": "NO",
+    "requires_user_input": "YES"
+  },
+  {
+    "card_name": "Mission Bypass Card",
+    "card_type": "Normal",
+    "reward_category": "Mission Bypass",
+    "requires_quality": "NO",
+    "requires_user_input": "NO"
+  },
+  {
+    "card_name": "Hairstyle Selector Card",
+    "card_type": "Selector",
+    "reward_category": "Hairstyle",
+    "requires_quality": "NO",
+    "requires_user_input": "YES"
+  },
+  {
+    "card_name": "Facial Hairstyle Selector Card",
+    "card_type": "Selector",
+    "reward_category": "Facial",
+    "requires_quality": "NO",
+    "requires_user_input": "YES"
+  },
+  {
+    "card_name": "Emote Selector Card",
+    "card_type": "Selector",
+    "reward_category": "Emote",
+    "requires_quality": "NO",
+    "requires_user_input": "YES"
+  },
+  {
+    "card_name": "Emote Draw Card",
+    "card_type": "Draw",
+    "reward_category": "Emote",
+    "requires_quality": "NO",
+    "requires_user_input": "NO"
+  },
+  {
+    "card_name": "Dino Costume Draw Card",
+    "card_type": "Draw",
+    "reward_category": "Costume",
+    "requires_quality": "NO",
+    "requires_user_input": "NO"
+  },
+  {
+    "card_name": "Tame License Selector Card",
+    "card_type": "Selector",
+    "reward_category": "Tames",
+    "requires_quality": "NO",
+    "requires_user_input": "YES"
+  },
+  {
+    "card_name": "Tame License Draw Card",
+    "card_type": "Draw",
+    "reward_category": "Tames",
+    "requires_quality": "NO",
+    "requires_user_input": "NO"
+  },
+  {
+    "card_name": "Chibi License Selector Card",
+    "card_type": "Selector",
+    "reward_category": "Chibi",
+    "requires_quality": "NO",
+    "requires_user_input": "YES"
+  },
+  {
+    "card_name": "Chibi License Draw Card",
+    "card_type": "Draw",
+    "reward_category": "Chibi",
+    "requires_quality": "NO",
+    "requires_user_input": "NO"
+  },
+  {
+    "card_name": "Insta Growth Card",
+    "card_type": "Normal",
+    "reward_category": "Growth",
+    "requires_quality": "NO",
+    "requires_user_input": "NO"
+  },
+  {
+    "card_name": "Insta Imprint Card",
+    "card_type": "Normal",
+    "reward_category": "Imprint",
+    "requires_quality": "NO",
+    "requires_user_input": "NO"
+  },
+  {
+    "card_name": "Space Crate Selector Card",
+    "card_type": "Normal",
+    "reward_category": "Crate",
+    "requires_quality": "NO",
+    "requires_user_input": "YES"
+  },
+  {
+    "card_name": "Insta Level Card",
+    "card_type": "Normal",
+    "reward_category": "Level UP",
+    "requires_quality": "NO",
+    "requires_user_input": "YES"
+  },
+  {
+    "card_name": "Insta Level AOE Card",
+    "card_type": "Normal",
+    "reward_category": "Level Up AOE",
+    "requires_quality": "NO",
+    "requires_user_input": "YES"
+  },
+  {
+    "card_name": "Insta Heal Card",
+    "card_type": "Normal",
+    "reward_category": "Healing",
+    "requires_quality": "NO",
+    "requires_user_input": "NO"
+  },
+  {
+    "card_name": "Time Selector Card",
+    "card_type": "Normal",
+    "reward_category": "Time",
+    "requires_quality": "NO",
+    "requires_user_input": "YES"
+  },
+  {
+    "card_name": "Wild Wipe Card",
+    "card_type": "Normal",
+    "reward_category": "Wipe",
+    "requires_quality": "NO",
+    "requires_user_input": "NO"
+  },
+  {
+    "card_name": "Weather Control Card",
+    "card_type": "Selector",
+    "reward_category": "Weather",
+    "requires_quality": "NO",
+    "requires_user_input": "YES"
+  },
+  {
+    "card_name": "Start Horde",
+    "card_type": "Normal",
+    "reward_category": "Horde",
+    "requires_quality": "NO",
+    "requires_user_input": "YES"
+  },
+  {
+    "card_name": "Teleport To Horde",
+    "card_type": "Normal",
+    "reward_category": "Teleport",
+    "requires_quality": "NO",
+    "requires_user_input": "YES"
+  }
+]

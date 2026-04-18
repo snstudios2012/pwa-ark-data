@@ -1,0 +1,632 @@
+[
+  {
+    "ark_color_id": 1,
+    "color_name": "Red",
+    "hex_code": "#FF0000"
+  },
+  {
+    "ark_color_id": 2,
+    "color_name": "Blue",
+    "hex_code": "#0000FF"
+  },
+  {
+    "ark_color_id": 3,
+    "color_name": "Green",
+    "hex_code": "#00FF00"
+  },
+  {
+    "ark_color_id": 4,
+    "color_name": "Yellow",
+    "hex_code": "#FFFF00"
+  },
+  {
+    "ark_color_id": 5,
+    "color_name": "Cyan",
+    "hex_code": "#00FFFF"
+  },
+  {
+    "ark_color_id": 6,
+    "color_name": "Magenta",
+    "hex_code": "#FF00FF"
+  },
+  {
+    "ark_color_id": 7,
+    "color_name": "Light Green",
+    "hex_code": "#C0FFBA"
+  },
+  {
+    "ark_color_id": 8,
+    "color_name": "Light Grey",
+    "hex_code": "#C8CACA"
+  },
+  {
+    "ark_color_id": 9,
+    "color_name": "Light Brown",
+    "hex_code": "#786759"
+  },
+  {
+    "ark_color_id": 10,
+    "color_name": "Light Orange",
+    "hex_code": "#FFB46C"
+  },
+  {
+    "ark_color_id": 11,
+    "color_name": "Light Yellow",
+    "hex_code": "#FFFA8A"
+  },
+  {
+    "ark_color_id": 12,
+    "color_name": "Light Red",
+    "hex_code": "#FF756C"
+  },
+  {
+    "ark_color_id": 13,
+    "color_name": "Dark Grey",
+    "hex_code": "#7B7B7B"
+  },
+  {
+    "ark_color_id": 14,
+    "color_name": "Black",
+    "hex_code": "#3B3B3B"
+  },
+  {
+    "ark_color_id": 15,
+    "color_name": "Brown",
+    "hex_code": "#593A2A"
+  },
+  {
+    "ark_color_id": 16,
+    "color_name": "Dark Green",
+    "hex_code": "#224900"
+  },
+  {
+    "ark_color_id": 17,
+    "color_name": "Dark Red",
+    "hex_code": "#812118"
+  },
+  {
+    "ark_color_id": 18,
+    "color_name": "White",
+    "hex_code": "#FFFFFF"
+  },
+  {
+    "ark_color_id": 19,
+    "color_name": "Dino Light Red",
+    "hex_code": "#FFA8A8"
+  },
+  {
+    "ark_color_id": 20,
+    "color_name": "Dino Dark Red",
+    "hex_code": "#592B2B"
+  },
+  {
+    "ark_color_id": 21,
+    "color_name": "Dino Light Orange",
+    "hex_code": "#FFB694"
+  },
+  {
+    "ark_color_id": 22,
+    "color_name": "Dino Dark Orange",
+    "hex_code": "#88532F"
+  },
+  {
+    "ark_color_id": 23,
+    "color_name": "Dino Light Yellow",
+    "hex_code": "#CACAA0"
+  },
+  {
+    "ark_color_id": 24,
+    "color_name": "Dino Dark Yellow",
+    "hex_code": "#94946C"
+  },
+  {
+    "ark_color_id": 25,
+    "color_name": "Dino Light Green",
+    "hex_code": "#E0FFE0"
+  },
+  {
+    "ark_color_id": 26,
+    "color_name": "Dino Medium Green",
+    "hex_code": "#799479"
+  },
+  {
+    "ark_color_id": 27,
+    "color_name": "Dino Dark Green",
+    "hex_code": "#224122"
+  },
+  {
+    "ark_color_id": 28,
+    "color_name": "Dino Light Blue",
+    "hex_code": "#D9E0FF"
+  },
+  {
+    "ark_color_id": 29,
+    "color_name": "Dino Dark Blue",
+    "hex_code": "#394263"
+  },
+  {
+    "ark_color_id": 30,
+    "color_name": "Dino Light Purple",
+    "hex_code": "#E4D9FF"
+  },
+  {
+    "ark_color_id": 31,
+    "color_name": "Dino Dark Purple",
+    "hex_code": "#403459"
+  },
+  {
+    "ark_color_id": 32,
+    "color_name": "Dino Light Brown",
+    "hex_code": "#FFE0BA"
+  },
+  {
+    "ark_color_id": 33,
+    "color_name": "Dino Medium Brown",
+    "hex_code": "#948575"
+  },
+  {
+    "ark_color_id": 34,
+    "color_name": "Dino Dark Brown",
+    "hex_code": "#594E41"
+  },
+  {
+    "ark_color_id": 35,
+    "color_name": "Dino Darker Grey",
+    "hex_code": "#595959"
+  },
+  {
+    "ark_color_id": 36,
+    "color_name": "Dino Albino",
+    "hex_code": "#FFFFFF"
+  },
+  {
+    "ark_color_id": 37,
+    "color_name": "BigFoot0",
+    "hex_code": "#B79683"
+  },
+  {
+    "ark_color_id": 38,
+    "color_name": "BigFoot4",
+    "hex_code": "#EADAD5"
+  },
+  {
+    "ark_color_id": 39,
+    "color_name": "BigFoot5",
+    "hex_code": "#D0A794"
+  },
+  {
+    "ark_color_id": 40,
+    "color_name": "WolfFur",
+    "hex_code": "#C3B39F"
+  },
+  {
+    "ark_color_id": 41,
+    "color_name": "DarkWolfFur",
+    "hex_code": "#887666"
+  },
+  {
+    "ark_color_id": 42,
+    "color_name": "DragonBase0",
+    "hex_code": "#A0664B"
+  },
+  {
+    "ark_color_id": 43,
+    "color_name": "DragonBase1",
+    "hex_code": "#CB7956"
+  },
+  {
+    "ark_color_id": 44,
+    "color_name": "DragonFire",
+    "hex_code": "#BC4F00"
+  },
+  {
+    "ark_color_id": 45,
+    "color_name": "DragonGreen0",
+    "hex_code": "#79846C"
+  },
+  {
+    "ark_color_id": 46,
+    "color_name": "DragonGreen1",
+    "hex_code": "#909C79"
+  },
+  {
+    "ark_color_id": 47,
+    "color_name": "DragonGreen2",
+    "hex_code": "#A5A48B"
+  },
+  {
+    "ark_color_id": 48,
+    "color_name": "DragonGreen3",
+    "hex_code": "#74939C"
+  },
+  {
+    "ark_color_id": 49,
+    "color_name": "WyvernPurple0",
+    "hex_code": "#787496"
+  },
+  {
+    "ark_color_id": 50,
+    "color_name": "WyvernPurple1",
+    "hex_code": "#B0A2C0"
+  },
+  {
+    "ark_color_id": 51,
+    "color_name": "WyvernBlue0",
+    "hex_code": "#6281A7"
+  },
+  {
+    "ark_color_id": 52,
+    "color_name": "WyvernBlue1",
+    "hex_code": "#485C75"
+  },
+  {
+    "ark_color_id": 53,
+    "color_name": "Dino Medium Blue",
+    "hex_code": "#5FA4EA"
+  },
+  {
+    "ark_color_id": 54,
+    "color_name": "Dino Deep Blue",
+    "hex_code": "#4568D4"
+  },
+  {
+    "ark_color_id": 55,
+    "color_name": "NearWhite",
+    "hex_code": "#EDEDED"
+  },
+  {
+    "ark_color_id": 56,
+    "color_name": "NearBlack",
+    "hex_code": "#515151"
+  },
+  {
+    "ark_color_id": 57,
+    "color_name": "DarkTurquoise",
+    "hex_code": "#184546"
+  },
+  {
+    "ark_color_id": 58,
+    "color_name": "MediumTurquoise",
+    "hex_code": "#007060"
+  },
+  {
+    "ark_color_id": 59,
+    "color_name": "Turquoise",
+    "hex_code": "#00C5AB"
+  },
+  {
+    "ark_color_id": 60,
+    "color_name": "GreenSlate",
+    "hex_code": "#40594C"
+  },
+  {
+    "ark_color_id": 61,
+    "color_name": "Sage",
+    "hex_code": "#3E4F40"
+  },
+  {
+    "ark_color_id": 62,
+    "color_name": "DarkWarmGray",
+    "hex_code": "#3B3938"
+  },
+  {
+    "ark_color_id": 63,
+    "color_name": "MediumWarmGray",
+    "hex_code": "#585554"
+  },
+  {
+    "ark_color_id": 64,
+    "color_name": "LightWarmGray",
+    "hex_code": "#9B9290"
+  },
+  {
+    "ark_color_id": 65,
+    "color_name": "DarkCement",
+    "hex_code": "#525B56"
+  },
+  {
+    "ark_color_id": 66,
+    "color_name": "LightCement",
+    "hex_code": "#8AA196"
+  },
+  {
+    "ark_color_id": 67,
+    "color_name": "LightPink",
+    "hex_code": "#E8B0FF"
+  },
+  {
+    "ark_color_id": 68,
+    "color_name": "DeepPink",
+    "hex_code": "#FF119A"
+  },
+  {
+    "ark_color_id": 69,
+    "color_name": "DarkViolet",
+    "hex_code": "#730046"
+  },
+  {
+    "ark_color_id": 70,
+    "color_name": "DarkMagenta",
+    "hex_code": "#B70042"
+  },
+  {
+    "ark_color_id": 71,
+    "color_name": "BurntSienna",
+    "hex_code": "#7E331E"
+  },
+  {
+    "ark_color_id": 72,
+    "color_name": "MediumAutumn",
+    "hex_code": "#A93000"
+  },
+  {
+    "ark_color_id": 73,
+    "color_name": "Vermillion",
+    "hex_code": "#EF3100"
+  },
+  {
+    "ark_color_id": 74,
+    "color_name": "Coral",
+    "hex_code": "#FF5834"
+  },
+  {
+    "ark_color_id": 75,
+    "color_name": "Orange",
+    "hex_code": "#FF7F00"
+  },
+  {
+    "ark_color_id": 76,
+    "color_name": "Peach",
+    "hex_code": "#FFA73A"
+  },
+  {
+    "ark_color_id": 77,
+    "color_name": "LightAutumn",
+    "hex_code": "#AE7000"
+  },
+  {
+    "ark_color_id": 78,
+    "color_name": "Mustard",
+    "hex_code": "#949427"
+  },
+  {
+    "ark_color_id": 79,
+    "color_name": "ActualBlack",
+    "hex_code": "#171717"
+  },
+  {
+    "ark_color_id": 80,
+    "color_name": "MidnightBlue",
+    "hex_code": "#191D36"
+  },
+  {
+    "ark_color_id": 81,
+    "color_name": "DarkBlue",
+    "hex_code": "#152B3A"
+  },
+  {
+    "ark_color_id": 82,
+    "color_name": "BlackSands",
+    "hex_code": "#302531"
+  },
+  {
+    "ark_color_id": 83,
+    "color_name": "LemonLime",
+    "hex_code": "#A8FF44"
+  },
+  {
+    "ark_color_id": 84,
+    "color_name": "Mint",
+    "hex_code": "#38E985"
+  },
+  {
+    "ark_color_id": 85,
+    "color_name": "Jade",
+    "hex_code": "#008840"
+  },
+  {
+    "ark_color_id": 86,
+    "color_name": "PineGreen",
+    "hex_code": "#0F552E"
+  },
+  {
+    "ark_color_id": 87,
+    "color_name": "SpruceGreen",
+    "hex_code": "#005B45"
+  },
+  {
+    "ark_color_id": 88,
+    "color_name": "LeafGreen",
+    "hex_code": "#5B9725"
+  },
+  {
+    "ark_color_id": 89,
+    "color_name": "DarkLavender",
+    "hex_code": "#5E275F"
+  },
+  {
+    "ark_color_id": 90,
+    "color_name": "MediumLavender",
+    "hex_code": "#853587"
+  },
+  {
+    "ark_color_id": 91,
+    "color_name": "Lavender",
+    "hex_code": "#BD77BE"
+  },
+  {
+    "ark_color_id": 92,
+    "color_name": "DarkTeal",
+    "hex_code": "#0E404A"
+  },
+  {
+    "ark_color_id": 93,
+    "color_name": "MediumTeal",
+    "hex_code": "#105563"
+  },
+  {
+    "ark_color_id": 94,
+    "color_name": "Teal",
+    "hex_code": "#14849C"
+  },
+  {
+    "ark_color_id": 95,
+    "color_name": "PowderBlue",
+    "hex_code": "#82A7FF"
+  },
+  {
+    "ark_color_id": 96,
+    "color_name": "Glacial",
+    "hex_code": "#ACEAFF"
+  },
+  {
+    "ark_color_id": 97,
+    "color_name": "Cammo",
+    "hex_code": "#505118"
+  },
+  {
+    "ark_color_id": 98,
+    "color_name": "DryMoss",
+    "hex_code": "#766E3F"
+  },
+  {
+    "ark_color_id": 99,
+    "color_name": "Custard",
+    "hex_code": "#C0BD5E"
+  },
+  {
+    "ark_color_id": 100,
+    "color_name": "Cream",
+    "hex_code": "#F4FFC0"
+  },
+  {
+    "ark_color_id": 201,
+    "color_name": "Black Coloring",
+    "hex_code": "#1F1F1F"
+  },
+  {
+    "ark_color_id": 202,
+    "color_name": "Blue Coloring",
+    "hex_code": "#0000FF"
+  },
+  {
+    "ark_color_id": 203,
+    "color_name": "Brown Coloring",
+    "hex_code": "#756147"
+  },
+  {
+    "ark_color_id": 204,
+    "color_name": "Cyan Coloring",
+    "hex_code": "#00FFFF"
+  },
+  {
+    "ark_color_id": 205,
+    "color_name": "Forest Coloring",
+    "hex_code": "#006C00"
+  },
+  {
+    "ark_color_id": 206,
+    "color_name": "Green Coloring",
+    "hex_code": "#00FF00"
+  },
+  {
+    "ark_color_id": 207,
+    "color_name": "Purple Coloring",
+    "hex_code": "#6C00BA"
+  },
+  {
+    "ark_color_id": 208,
+    "color_name": "Orange Coloring",
+    "hex_code": "#FF8800"
+  },
+  {
+    "ark_color_id": 209,
+    "color_name": "Parchement Coloring",
+    "hex_code": "#FFFFBA"
+  },
+  {
+    "ark_color_id": 210,
+    "color_name": "Pink Coloring",
+    "hex_code": "#FF7BE1"
+  },
+  {
+    "ark_color_id": 211,
+    "color_name": "Purple Coloring",
+    "hex_code": "#7B00E0"
+  },
+  {
+    "ark_color_id": 212,
+    "color_name": "Red Coloring",
+    "hex_code": "#FF0000"
+  },
+  {
+    "ark_color_id": 213,
+    "color_name": "Royalty Coloring",
+    "hex_code": "#7B00A8"
+  },
+  {
+    "ark_color_id": 214,
+    "color_name": "Silver Coloring",
+    "hex_code": "#E0E0E0"
+  },
+  {
+    "ark_color_id": 215,
+    "color_name": "Sky Coloring",
+    "hex_code": "#BAD4FF"
+  },
+  {
+    "ark_color_id": 216,
+    "color_name": "Tan Coloring",
+    "hex_code": "#FFEDB2"
+  },
+  {
+    "ark_color_id": 217,
+    "color_name": "Tangerine Coloring",
+    "hex_code": "#AD652C"
+  },
+  {
+    "ark_color_id": 218,
+    "color_name": "White Coloring",
+    "hex_code": "#FEFEFE"
+  },
+  {
+    "ark_color_id": 219,
+    "color_name": "Yellow Coloring",
+    "hex_code": "#FFFF00"
+  },
+  {
+    "ark_color_id": 220,
+    "color_name": "Magenta Coloring",
+    "hex_code": "#E71FD9"
+  },
+  {
+    "ark_color_id": 221,
+    "color_name": "Brick Coloring",
+    "hex_code": "#94341F"
+  },
+  {
+    "ark_color_id": 222,
+    "color_name": "Cantaloupe Coloring",
+    "hex_code": "#FF9A00"
+  },
+  {
+    "ark_color_id": 223,
+    "color_name": "Mud Coloring",
+    "hex_code": "#473B2B"
+  },
+  {
+    "ark_color_id": 224,
+    "color_name": "Navy Coloring",
+    "hex_code": "#34346C"
+  },
+  {
+    "ark_color_id": 225,
+    "color_name": "Olive Coloring",
+    "hex_code": "#BABA59"
+  },
+  {
+    "ark_color_id": 226,
+    "color_name": "Slate Coloring",
+    "hex_code": "#595959"
+  }
+]

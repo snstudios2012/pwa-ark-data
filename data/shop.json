@@ -1,0 +1,362 @@
+[
+  {
+    "id": "resource_pack_primitive",
+    "name": "Resource Pack (Primitive)",
+    "currency": "Evo Coin",
+    "cost": 100,
+    "rewardItem": "Primitive Resource Card",
+    "category": "Resource Pack"
+  },
+  {
+    "id": "resource_pack_ramshackle",
+    "name": "Resource Pack (Ramshackle)",
+    "currency": "Evo Coin",
+    "cost": 250,
+    "rewardItem": "Ramshackle Resource Card",
+    "category": "Resource Pack"
+  },
+  {
+    "id": "resource_pack_apprentice",
+    "name": "Resource Pack (Apprentice)",
+    "currency": "Evo Coin",
+    "cost": 500,
+    "rewardItem": "Apprentice Resource Card",
+    "category": "Resource Pack"
+  },
+  {
+    "id": "resource_pack_journeyman",
+    "name": "Resource Pack (Journeyman)",
+    "currency": "Evo Coin",
+    "cost": 700,
+    "rewardItem": "Journeyman Resource Card",
+    "category": "Resource Pack"
+  },
+  {
+    "id": "resource_pack_mastercraft",
+    "name": "Resource Pack (Mastercraft)",
+    "currency": "Evo Coin",
+    "cost": 1000,
+    "rewardItem": "Mastercraft Resource Card",
+    "category": "Resource Pack"
+  },
+  {
+    "id": "resource_pack_ascendant",
+    "name": "Resource Pack (Ascendant)",
+    "currency": "Evo Coin",
+    "cost": 1600,
+    "rewardItem": "Ascendant Resource Card",
+    "category": "Resource Pack"
+  },
+  {
+    "id": "recolor_card",
+    "name": "Recolor Card",
+    "currency": "Primal Essense",
+    "cost": 100,
+    "rewardItem": "Recolor Card",
+    "category": "Cosmetic"
+  },
+  {
+    "id": "cryopod_card",
+    "name": "Cryopod Card",
+    "currency": "Evo Coin",
+    "cost": 200,
+    "rewardItem": "Cryopod Card",
+    "category": "Utility"
+  },
+  {
+    "id": "mutagen_card",
+    "name": "Mutagen Card",
+    "currency": "Primal Essense",
+    "cost": 1000,
+    "rewardItem": "Mutagen Card",
+    "category": "Utility"
+  },
+  {
+    "id": "mutated_egg_card",
+    "name": "Mutated Egg Card",
+    "currency": "Primal Essense",
+    "cost": 1000,
+    "rewardItem": "Mutated Egg Card",
+    "category": "Utility"
+  },
+  {
+    "id": "tame_effectiveness_reset_card",
+    "name": "Tame Effectiveness Reset Card",
+    "currency": "Primal Essense",
+    "cost": 200,
+    "rewardItem": "Tame Effectiveness Reset Card",
+    "category": "Utility"
+  },
+  {
+    "id": "kibble_draw_card",
+    "name": "Kibble Draw Card",
+    "currency": "Evo Coin",
+    "cost": 100,
+    "rewardItem": "Kibble Draw Card",
+    "category": "Kibble"
+  },
+  {
+    "id": "kibble_selector_card",
+    "name": "Kibble Selector Card",
+    "currency": "Evo Coin",
+    "cost": 200,
+    "rewardItem": "Kibble Selector Card",
+    "category": "Kibble"
+  },
+  {
+    "id": "tribute_item_draw_card",
+    "name": "Tribute Item Draw Card",
+    "currency": "Primal Essense",
+    "cost": 300,
+    "rewardItem": "Tribute Item Draw Card",
+    "category": "Tribute"
+  },
+  {
+    "id": "tribute_item_selector_card",
+    "name": "Tribute Item Selector Card",
+    "currency": "Primal Essense",
+    "cost": 600,
+    "rewardItem": "Tribute Item Selector Card",
+    "category": "Tribute"
+  },
+  {
+    "id": "blueprint_draw_card",
+    "name": "Blueprint Draw Card",
+    "currency": "Evo Coin",
+    "cost": 500,
+    "rewardItem": "Blueprint Draw Card",
+    "category": "Blueprints"
+  },
+  {
+    "id": "blueprint_selector_card",
+    "name": "Blueprint Selector Card",
+    "currency": "Evo Coin",
+    "cost": 1000,
+    "rewardItem": "Blueprint Selector Card",
+    "category": "Blueprints"
+  },
+  {
+    "id": "saddle_draw_card",
+    "name": "Saddle Draw Card",
+    "currency": "Evo Coin",
+    "cost": 250,
+    "rewardItem": "Saddle Draw Card",
+    "category": "Saddles"
+  },
+  {
+    "id": "saddle_selector_card",
+    "name": "Saddle Selector Card",
+    "currency": "Evo Coin",
+    "cost": 500,
+    "rewardItem": "Saddle Selector Card",
+    "category": "Saddles"
+  },
+  {
+    "id": "skin_draw_card",
+    "name": "Skin Draw Card",
+    "currency": "Evo Coin",
+    "cost": 250,
+    "rewardItem": "Skin Draw Card",
+    "category": "Cosmetic"
+  },
+  {
+    "id": "skin_selector_card",
+    "name": "Skin Selector Card",
+    "currency": "Evo Coin",
+    "cost": 500,
+    "rewardItem": "Skin Selector Card",
+    "category": "Cosmetic"
+  },
+  {
+    "id": "boss_teleport_selector_card_gamma",
+    "name": "Boss Teleport Selector Card (Gamma)",
+    "currency": "Primal Essense",
+    "cost": 2500,
+    "rewardItem": "Boss Teleport Selector Card (Gamma)",
+    "category": "Endgame"
+  },
+  {
+    "id": "boss_teleport_selector_card_beta",
+    "name": "Boss Teleport Selector Card (Beta)",
+    "currency": "Primal Essense",
+    "cost": 5000,
+    "rewardItem": "Boss Teleport Selector Card (Beta)",
+    "category": "Endgame"
+  },
+  {
+    "id": "boss_teleport_selector_card_alpha",
+    "name": "Boss Teleport Selector Card (Alpha)",
+    "currency": "Primal Essense",
+    "cost": 10000,
+    "rewardItem": "Boss Teleport Selector Card (Alpha)",
+    "category": "Endgame"
+  },
+  {
+    "id": "mission_bypass_card",
+    "name": "Mission Bypass Card",
+    "currency": "Primal Essense",
+    "cost": 7000,
+    "rewardItem": "Mission Bypass Card",
+    "category": "Endgame"
+  },
+  {
+    "id": "hairstyle_selector_card",
+    "name": "Hairstyle Selector Card",
+    "currency": "Evo Coin",
+    "cost": 500,
+    "rewardItem": "Hairstyle Selector Card",
+    "category": "Cosmetic"
+  },
+  {
+    "id": "facial_hairstyle_selector_card",
+    "name": "Facial Hairstyle Selector Card",
+    "currency": "Evo Coin",
+    "cost": 500,
+    "rewardItem": "Facial Hairstyle Selector Card",
+    "category": "Cosmetic"
+  },
+  {
+    "id": "emote_selector_card",
+    "name": "Emote Selector Card",
+    "currency": "Evo Coin",
+    "cost": 500,
+    "rewardItem": "Emote Selector Card",
+    "category": "Cosmetic"
+  },
+  {
+    "id": "emote_draw_card",
+    "name": "Emote Draw Card",
+    "currency": "Evo Coin",
+    "cost": 250,
+    "rewardItem": "Emote Draw Card",
+    "category": "Cosmetic"
+  },
+  {
+    "id": "dino_costume_draw_card",
+    "name": "Dino Costume Draw Card",
+    "currency": "Evo Coin",
+    "cost": 250,
+    "rewardItem": "Dino Costume Draw Card",
+    "category": "Cosmetic"
+  },
+  {
+    "id": "tame_license_draw_card",
+    "name": "Tame License Draw Card",
+    "currency": "Evo Coin",
+    "cost": 350,
+    "rewardItem": "Tame License Draw Card",
+    "category": "Tame License"
+  },
+  {
+    "id": "tame_license_selector_card",
+    "name": "Tame License Selector Card",
+    "currency": "Evo Coin",
+    "cost": 700,
+    "rewardItem": "Tame License Selector Card",
+    "category": "Tame License"
+  },
+  {
+    "id": "chibi_license_selector_card",
+    "name": "Chibi License Selector Card",
+    "currency": "Evo Coin",
+    "cost": 300,
+    "rewardItem": "Chibi License Selector Card",
+    "category": "Chibi License"
+  },
+  {
+    "id": "chibi_license_draw_card",
+    "name": "Chibi License Draw Card",
+    "currency": "Evo Coin",
+    "cost": 600,
+    "rewardItem": "Chibi License Draw Card",
+    "category": "Chibi License"
+  },
+  {
+    "id": "insta_growth_card",
+    "name": "Insta Growth Card",
+    "currency": "Primal Essense",
+    "cost": 1000,
+    "rewardItem": "Insta Growth Card",
+    "category": "Utility"
+  },
+  {
+    "id": "insta_imprint_card",
+    "name": "Insta Imprint Card",
+    "currency": "Primal Essense",
+    "cost": 1000,
+    "rewardItem": "Insta Imprint Card",
+    "category": "Utility"
+  },
+  {
+    "id": "space_crate_selector_card",
+    "name": "Space Crate Selector Card",
+    "currency": "Primal Essense",
+    "cost": 1000,
+    "rewardItem": "Space Crate Selector Card",
+    "category": "Utility"
+  },
+  {
+    "id": "insta_level_card",
+    "name": "Insta Level Card",
+    "currency": "Primal Essense",
+    "cost": 1500,
+    "rewardItem": "Insta Level Card",
+    "category": "Utility"
+  },
+  {
+    "id": "insta_level_aoe_card",
+    "name": "Insta Level AOE Card",
+    "currency": "Primal Essense",
+    "cost": 2500,
+    "rewardItem": "Insta Level AOE Card",
+    "category": "Utility"
+  },
+  {
+    "id": "insta_heal_card",
+    "name": "Insta Heal Card",
+    "currency": "Primal Essense",
+    "cost": 1000,
+    "rewardItem": "Insta Heal Card",
+    "category": "Utility"
+  },
+  {
+    "id": "time_selector_card",
+    "name": "Time Selector Card",
+    "currency": "Primal Essense",
+    "cost": 100,
+    "rewardItem": "Time Selector Card",
+    "category": "Utility"
+  },
+  {
+    "id": "wild_wipe_card",
+    "name": "Wild Wipe Card",
+    "currency": "Primal Essense",
+    "cost": 100,
+    "rewardItem": "Wild Wipe Card",
+    "category": "Utility"
+  },
+  {
+    "id": "weather_control_card",
+    "name": "Weather Control Card",
+    "currency": "Primal Essense",
+    "cost": 500,
+    "rewardItem": "Weather Control Card",
+    "category": "Utility"
+  },
+  {
+    "id": "start_osd_element_vein",
+    "name": "Start OSD-Element Vein",
+    "currency": "Primal Essense",
+    "cost": 2500,
+    "rewardItem": "Start Horde",
+    "category": "Utility"
+  },
+  {
+    "id": "teleport_to_horde",
+    "name": "Teleport To Horde",
+    "currency": "Primal Essense",
+    "cost": 1000,
+    "rewardItem": "Teleport To Horde",
+    "category": "Utility"
+  }
+]

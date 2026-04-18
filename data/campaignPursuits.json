@@ -1,0 +1,884 @@
+[
+  {
+    "pursuit_id": "REG-001",
+    "pursuit_name": "Find your dead body and get back stuff",
+    "pursuit_type": "One Time",
+    "category": "Basic",
+    "card_reward": "None",
+    "item_reward": "cheat gfi HealSoup 10 0 0",
+    "coin_reward": 25
+  },
+  {
+    "pursuit_id": "REG-002",
+    "pursuit_name": "Craft and equip stone pickaxe",
+    "pursuit_type": "One Time",
+    "category": "Basic",
+    "card_reward": "None",
+    "item_reward": "cheat gfi StoneHatchet 1 0 0",
+    "coin_reward": 25
+  },
+  {
+    "pursuit_id": "REG-003",
+    "pursuit_name": "Build campfire and cook meat x20",
+    "pursuit_type": "One Time",
+    "category": "Basic",
+    "card_reward": "None",
+    "item_reward": "cheat gfi CookedMeat_Jerky 10 0 0",
+    "coin_reward": 25
+  },
+  {
+    "pursuit_id": "REG-004",
+    "pursuit_name": "Lay on Bed",
+    "pursuit_type": "One Time",
+    "category": "Basic",
+    "card_reward": "None",
+    "item_reward": "cheat gfi SleepBag 5 0 0",
+    "coin_reward": 25
+  },
+  {
+    "pursuit_id": "REG-005",
+    "pursuit_name": "Cook Prime Meat x10",
+    "pursuit_type": "One Time",
+    "category": "Basic",
+    "card_reward": "None",
+    "item_reward": "cheat gfi CookedPrimeMeat_Jerky 10 0 0",
+    "coin_reward": 50
+  },
+  {
+    "pursuit_id": "REG-006",
+    "pursuit_name": "Thatch Base",
+    "pursuit_type": "One Time",
+    "category": "Building",
+    "card_reward": "None",
+    "item_reward": "cheat gfi StorageBox_Small 1 0 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-007",
+    "pursuit_name": "Wooden Base",
+    "pursuit_type": "One Time",
+    "category": "Building",
+    "card_reward": "None",
+    "item_reward": "cheat gfi StorageBox_Large 2 0 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-008",
+    "pursuit_name": "Stone Base",
+    "pursuit_type": "One Time",
+    "category": "Building",
+    "card_reward": "None",
+    "item_reward": "cheat gfi CropPlot_Medium 4 0 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-009",
+    "pursuit_name": "Metal Base",
+    "pursuit_type": "One Time",
+    "category": "Building",
+    "card_reward": "None",
+    "item_reward": "cheat gfi StorageBox_Huge 3 0 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-010",
+    "pursuit_name": "Tek Base",
+    "pursuit_type": "One Time",
+    "category": "Building",
+    "card_reward": "None",
+    "item_reward": "cheat gfi DedicatedStorage 5 0 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-011",
+    "pursuit_name": "Cloth Armor",
+    "pursuit_type": "One Time",
+    "category": "Clothing",
+    "card_reward": "None",
+    "item_reward": "cheat gfi FlakShirt 1 20 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-012",
+    "pursuit_name": "Hide Armor",
+    "pursuit_type": "One Time",
+    "category": "Clothing",
+    "card_reward": "None",
+    "item_reward": "cheat gfi FlakShirt 1 20 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-013",
+    "pursuit_name": "Chitin Armor",
+    "pursuit_type": "One Time",
+    "category": "Clothing",
+    "card_reward": "None",
+    "item_reward": "cheat gfi FlakShirt 1 20 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-014",
+    "pursuit_name": "Ghillie Armor",
+    "pursuit_type": "One Time",
+    "category": "Clothing",
+    "card_reward": "None",
+    "item_reward": "cheat gfi FlakShirt 1 20 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-015",
+    "pursuit_name": "Fur Armor",
+    "pursuit_type": "One Time",
+    "category": "Clothing",
+    "card_reward": "None",
+    "item_reward": "cheat gfi FlakShirt 1 20 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-016",
+    "pursuit_name": "Flak Armor",
+    "pursuit_type": "One Time",
+    "category": "Clothing",
+    "card_reward": "None",
+    "item_reward": "cheat gfi FlakShirt 1 20 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-017",
+    "pursuit_name": "Riot Armor",
+    "pursuit_type": "One Time",
+    "category": "Clothing",
+    "card_reward": "None",
+    "item_reward": "cheat gfi FlakShirt 1 20 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-018",
+    "pursuit_name": "Tek Armor",
+    "pursuit_type": "One Time",
+    "category": "Clothing",
+    "card_reward": "None",
+    "item_reward": "cheat gfi FlakShirt 1 20 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-019",
+    "pursuit_name": "Desert Armor",
+    "pursuit_type": "One Time",
+    "category": "Clothing",
+    "card_reward": "None",
+    "item_reward": "cheat gfi FlakShirt 1 20 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-020",
+    "pursuit_name": "Hazard Armor",
+    "pursuit_type": "One Time",
+    "category": "Clothing",
+    "card_reward": "None",
+    "item_reward": "cheat gfi FlakShirt 1 20 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-021",
+    "pursuit_name": "Dilo x5",
+    "pursuit_type": "One Time",
+    "category": "Hunt",
+    "card_reward": "None",
+    "item_reward": "cheat gfi Bow 1 20 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-022",
+    "pursuit_name": "Pelagornis x3",
+    "pursuit_type": "One Time",
+    "category": "Hunt",
+    "card_reward": "None",
+    "item_reward": "cheat gfi Pike 1 20 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-023",
+    "pursuit_name": "Hesperornis x3",
+    "pursuit_type": "One Time",
+    "category": "Hunt",
+    "card_reward": "None",
+    "item_reward": "cheat gfi ArrowTranq 100 0 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-024",
+    "pursuit_name": "Baryonix x3",
+    "pursuit_type": "One Time",
+    "category": "Hunt",
+    "card_reward": "None",
+    "item_reward": "cheat gfi Crossbow 1 20 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-025",
+    "pursuit_name": "Carno x3",
+    "pursuit_type": "One Time",
+    "category": "Hunt",
+    "card_reward": "None",
+    "item_reward": "cheat gfi RexSaddle 1 20 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-026",
+    "pursuit_name": "Ichthyornis x3",
+    "pursuit_type": "One Time",
+    "category": "Hunt",
+    "card_reward": "None",
+    "item_reward": "cheat gfi ArgentSaddle 1 20 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-027",
+    "pursuit_name": "Rhynio x1",
+    "pursuit_type": "One Time",
+    "category": "Hunt",
+    "card_reward": "None",
+    "item_reward": "cheat gfi OneShotRifle 1 20 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-028",
+    "pursuit_name": "Giga/Carcha x1",
+    "pursuit_type": "One Time",
+    "category": "Hunt",
+    "card_reward": "None",
+    "item_reward": "cheat gfi MachinedShotgun 1 20 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-029",
+    "pursuit_name": "Tuso x1",
+    "pursuit_type": "One Time",
+    "category": "Hunt",
+    "card_reward": "None",
+    "item_reward": "cheat gfi HarpoonGun 1 20 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-030",
+    "pursuit_name": "Cook Basic Kibble",
+    "pursuit_type": "One Time",
+    "category": "TAMING",
+    "card_reward": "None",
+    "item_reward": "cheat gfi Rockarrot 10 0 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-031",
+    "pursuit_name": "Cook Simple Kibble",
+    "pursuit_type": "One Time",
+    "category": "TAMING",
+    "card_reward": "None",
+    "item_reward": "cheat gfi Longgrass 10 0 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-032",
+    "pursuit_name": "Cook Regular Kibble",
+    "pursuit_type": "One Time",
+    "category": "TAMING",
+    "card_reward": "None",
+    "item_reward": "cheat gfi Sap 10 0 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-033",
+    "pursuit_name": "Cook Superior Kibble",
+    "pursuit_type": "One Time",
+    "category": "TAMING",
+    "card_reward": "None",
+    "item_reward": "cheat gfi FocalChili 1 0 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-034",
+    "pursuit_name": "Cook Exceptional Kibble",
+    "pursuit_type": "One Time",
+    "category": "TAMING",
+    "card_reward": "None",
+    "item_reward": "cheat gfi Honey 10 0 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-035",
+    "pursuit_name": "Cook Extraordinary Kibble",
+    "pursuit_type": "One Time",
+    "category": "TAMING",
+    "card_reward": "None",
+    "item_reward": "cheat gfi Egg_Golden 10 0 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-036",
+    "pursuit_name": "Doedicurus",
+    "pursuit_type": "One Time",
+    "category": "TAMING",
+    "card_reward": "None",
+    "item_reward": "cheat gfi AnkyloSaddle 1 20 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-037",
+    "pursuit_name": "Ichthyosaurus",
+    "pursuit_type": "One Time",
+    "category": "TAMING",
+    "card_reward": "None",
+    "item_reward": "cheat gfi EquusSaddle 1 20 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-038",
+    "pursuit_name": "Maewing",
+    "pursuit_type": "One Time",
+    "category": "TAMING",
+    "card_reward": "None",
+    "item_reward": "cheat gfi MagnifyingGlass 1 0 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-039",
+    "pursuit_name": "Equus",
+    "pursuit_type": "One Time",
+    "category": "TAMING",
+    "card_reward": "None",
+    "item_reward": "cheat gfi Mannequin 2 0 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-040",
+    "pursuit_name": "Stegosaurus",
+    "pursuit_type": "One Time",
+    "category": "TAMING",
+    "card_reward": "None",
+    "item_reward": "cheat gfi Sickle 1 20 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-041",
+    "pursuit_name": "Argentavis",
+    "pursuit_type": "One Time",
+    "category": "TAMING",
+    "card_reward": "None",
+    "item_reward": "cheat gfi TranqDart 100 0 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-042",
+    "pursuit_name": "Yutyrannus",
+    "pursuit_type": "One Time",
+    "category": "TAMING",
+    "card_reward": "None",
+    "item_reward": "cheat gfi Kibble_Special 5 0 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-043",
+    "pursuit_name": "Dung beetle",
+    "pursuit_type": "One Time",
+    "category": "TAMING",
+    "card_reward": "None",
+    "item_reward": "cheat gfi Fertilizer 20 0 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-044",
+    "pursuit_name": "Baryonix",
+    "pursuit_type": "One Time",
+    "category": "TAMING",
+    "card_reward": "None",
+    "item_reward": "cheat gfi ScubaShirt 1 20 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-045",
+    "pursuit_name": "Mammoth",
+    "pursuit_type": "One Time",
+    "category": "TAMING",
+    "card_reward": "None",
+    "item_reward": "cheat gfi TreePlatform_Wood 1 0 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-046",
+    "pursuit_name": "Carcha",
+    "pursuit_type": "One Time",
+    "category": "TAMING",
+    "card_reward": "None",
+    "item_reward": "cheat gfi RefinedTranqDart 100 0 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-047",
+    "pursuit_name": "Titan (any one of Ice/forest/desert)",
+    "pursuit_type": "One Time",
+    "category": "TAMING",
+    "card_reward": "None",
+    "item_reward": "cheat gfi Spawner_Mek 1 20 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-048",
+    "pursuit_name": "Magmasaur",
+    "pursuit_type": "One Time",
+    "category": "TAMING",
+    "card_reward": "None",
+    "item_reward": "cheat gfi ElementShard 100 0 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-049",
+    "pursuit_name": "Rockdrake",
+    "pursuit_type": "One Time",
+    "category": "TAMING",
+    "card_reward": "None",
+    "item_reward": "cheat gfi EggIncubator 3 0 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-050",
+    "pursuit_name": "Wyvern",
+    "pursuit_type": "One Time",
+    "category": "TAMING",
+    "card_reward": "None",
+    "item_reward": "cheat gfi Flamethrower 1 20 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-051",
+    "pursuit_name": "Reaper",
+    "pursuit_type": "One Time",
+    "category": "TAMING",
+    "card_reward": "None",
+    "item_reward": "cheat gfi RockDrakeSaddle 1 20 0",
+    "coin_reward": 100
+  },
+  {
+    "pursuit_id": "REG-052",
+    "pursuit_name": "Enter Caves",
+    "pursuit_type": "One Time",
+    "category": "Travelling",
+    "card_reward": "None",
+    "item_reward": "cheat AddExperience 100 0 1",
+    "coin_reward": 200
+  },
+  {
+    "pursuit_id": "REG-053",
+    "pursuit_name": "Locate Obelisks",
+    "pursuit_type": "One Time",
+    "category": "Travelling",
+    "card_reward": "None",
+    "item_reward": "cheat AddExperience 250 0 1",
+    "coin_reward": 200
+  },
+  {
+    "pursuit_id": "REG-054",
+    "pursuit_name": "Grand Voyage ( full round of map)",
+    "pursuit_type": "One Time",
+    "category": "Travelling",
+    "card_reward": "None",
+    "item_reward": "cheat gfi FlakPants 1 20 0",
+    "coin_reward": 200
+  },
+  {
+    "pursuit_id": "REG-055",
+    "pursuit_name": "Locate Tek Cave",
+    "pursuit_type": "One Time",
+    "category": "Travelling",
+    "card_reward": "None",
+    "item_reward": "cheat gfi CarchaSaddle 1 20 0",
+    "coin_reward": 200
+  },
+  {
+    "pursuit_id": "REG-056",
+    "pursuit_name": "Visit Scar (Scorched Earth)",
+    "pursuit_type": "One Time",
+    "category": "Travelling",
+    "card_reward": "None",
+    "item_reward": "cheat gfi CactusBuffSoup 10 0 0",
+    "coin_reward": 200
+  },
+  {
+    "pursuit_id": "REG-057",
+    "pursuit_name": "Visit murder snow (Ragnarok)",
+    "pursuit_type": "One Time",
+    "category": "Travelling",
+    "card_reward": "None",
+    "item_reward": "cheat gfi FriaCurry 10 0 0",
+    "coin_reward": 200
+  },
+  {
+    "pursuit_id": "REG-058",
+    "pursuit_name": "Visit Surface (Aberration)",
+    "pursuit_type": "One Time",
+    "category": "Travelling",
+    "card_reward": "None",
+    "item_reward": "cheat gmsummon \"\"LanternPug_Character_BP_C\"\" 150",
+    "coin_reward": 200
+  },
+  {
+    "pursuit_id": "REG-059",
+    "pursuit_name": "Visit Forbidden Zone (Extinction)",
+    "pursuit_type": "One Time",
+    "category": "Travelling",
+    "card_reward": "None",
+    "item_reward": "cheat gfi GigaSaddle 1 20 1",
+    "coin_reward": 200
+  },
+  {
+    "pursuit_id": "REG-060",
+    "pursuit_name": "Visit Lunar Biome (Gen 1)",
+    "pursuit_type": "One Time",
+    "category": "Travelling",
+    "card_reward": "None",
+    "item_reward": "cheat gfi Glider 1 20 0",
+    "coin_reward": 200
+  },
+  {
+    "pursuit_id": "REG-061",
+    "pursuit_name": "Visit Rockwell innards (Gen 2)",
+    "pursuit_type": "One Time",
+    "category": "Travelling",
+    "card_reward": "None",
+    "item_reward": "cheat gfi Mutagen 100 0 0",
+    "coin_reward": 200
+  },
+  {
+    "pursuit_id": "REG-062",
+    "pursuit_name": "Hunter",
+    "pursuit_type": "One Time",
+    "category": "Artifact",
+    "card_reward": "None",
+    "item_reward": "cheat gfi ApexDrop_Argentavis 5 0 0",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-063",
+    "pursuit_name": "Clever",
+    "pursuit_type": "One Time",
+    "category": "Artifact",
+    "card_reward": "None",
+    "item_reward": "cheat gfi ApexDrop_Sarco 5 0 0",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-064",
+    "pursuit_name": "Massive",
+    "pursuit_type": "One Time",
+    "category": "Artifact",
+    "card_reward": "None",
+    "item_reward": "cheat gfi ApexDrop_Boa 5 0 0",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-065",
+    "pursuit_name": "Immune",
+    "pursuit_type": "One Time",
+    "category": "Artifact",
+    "card_reward": "None",
+    "item_reward": "cheat gfi ApexDrop_Tuso 5 0 0",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-066",
+    "pursuit_name": "Skylord",
+    "pursuit_type": "One Time",
+    "category": "Artifact",
+    "card_reward": "None",
+    "item_reward": "cheat gfi ApexDrop_Yuty 5 0 0",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-067",
+    "pursuit_name": "Strong",
+    "pursuit_type": "One Time",
+    "category": "Artifact",
+    "card_reward": "None",
+    "item_reward": "cheat gfi ApexDrop_Rex 5 0 0",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-068",
+    "pursuit_name": "Devourer",
+    "pursuit_type": "One Time",
+    "category": "Artifact",
+    "card_reward": "None",
+    "item_reward": "cheat gfi ApexDrop_Thylaco 5 0 0",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-069",
+    "pursuit_name": "Pack",
+    "pursuit_type": "One Time",
+    "category": "Artifact",
+    "card_reward": "None",
+    "item_reward": "cheat gfi ApexDrop_Megalodon 5 0 0",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-070",
+    "pursuit_name": "Brute",
+    "pursuit_type": "One Time",
+    "category": "Artifact",
+    "card_reward": "None",
+    "item_reward": "cheat gfi ApexDrop_Therizino 5 0 0",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-071",
+    "pursuit_name": "Cunning",
+    "pursuit_type": "One Time",
+    "category": "Artifact",
+    "card_reward": "None",
+    "item_reward": "cheat gfi ApexDrop_Allo 5 0 0",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-072",
+    "pursuit_name": "Crag",
+    "pursuit_type": "One Time",
+    "category": "Artifact",
+    "card_reward": "None",
+    "item_reward": "cheat gfi ApexDrop_Wyvern_Fire 10 0 0",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-073",
+    "pursuit_name": "Destroyer",
+    "pursuit_type": "One Time",
+    "category": "Artifact",
+    "card_reward": "None",
+    "item_reward": "cheat gfi ApexDrop_Wyvern_Lightning 10 0 0",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-074",
+    "pursuit_name": "Gatekeeper",
+    "pursuit_type": "One Time",
+    "category": "Artifact",
+    "card_reward": "None",
+    "item_reward": "cheat gfi ApexDrop_Wyvern_Poison 10 0 0",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-075",
+    "pursuit_name": "Devious",
+    "pursuit_type": "One Time",
+    "category": "Artifact",
+    "card_reward": "None",
+    "item_reward": "cheat gfi ApexDrop_Basilo 10 0 0",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-076",
+    "pursuit_name": "Depths",
+    "pursuit_type": "One Time",
+    "category": "Artifact",
+    "card_reward": "None",
+    "item_reward": "cheat gfi ApexDrop_Basilisk 4 0 0",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-077",
+    "pursuit_name": "Shadows",
+    "pursuit_type": "One Time",
+    "category": "Artifact",
+    "card_reward": "None",
+    "item_reward": "cheat gfi NamelessVenom 12 0 0",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-078",
+    "pursuit_name": "Stalker",
+    "pursuit_type": "One Time",
+    "category": "Artifact",
+    "card_reward": "None",
+    "item_reward": "cheat gfi ApexDrop_ReaperPheromone 2 0 0",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-079",
+    "pursuit_name": "Chaos",
+    "pursuit_type": "One Time",
+    "category": "Artifact",
+    "card_reward": "None",
+    "item_reward": "cheat gfi ApexDrop_CorruptHeart 100 0 0",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-080",
+    "pursuit_name": "Growth",
+    "pursuit_type": "One Time",
+    "category": "Artifact",
+    "card_reward": "None",
+    "item_reward": "cheat gfi ApexDrop_CorruptHeart 100 0 0",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-081",
+    "pursuit_name": "Void",
+    "pursuit_type": "One Time",
+    "category": "Artifact",
+    "card_reward": "None",
+    "item_reward": "cheat gfi ApexDrop_CorruptHeart 100 0 0",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-082",
+    "pursuit_name": "Archaeopteryx",
+    "pursuit_type": "One Time",
+    "category": "Search",
+    "card_reward": "Cryopod Card",
+    "item_reward": "None",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-083",
+    "pursuit_name": "Basilisk",
+    "pursuit_type": "One Time",
+    "category": "Search",
+    "card_reward": "Cryopod Card",
+    "item_reward": "None",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-084",
+    "pursuit_name": "Bloodstalker",
+    "pursuit_type": "One Time",
+    "category": "Search",
+    "card_reward": "Cryopod Card",
+    "item_reward": "None",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-085",
+    "pursuit_name": "Deathworm",
+    "pursuit_type": "One Time",
+    "category": "Search",
+    "card_reward": "Cryopod Card",
+    "item_reward": "None",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-086",
+    "pursuit_name": "Ferox",
+    "pursuit_type": "One Time",
+    "category": "Search",
+    "card_reward": "Cryopod Card",
+    "item_reward": "None",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-087",
+    "pursuit_name": "Lamprey",
+    "pursuit_type": "One Time",
+    "category": "Search",
+    "card_reward": "Cryopod Card",
+    "item_reward": "None",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-088",
+    "pursuit_name": "Liopleurodon",
+    "pursuit_type": "One Time",
+    "category": "Search",
+    "card_reward": "Cryopod Card",
+    "item_reward": "None",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-089",
+    "pursuit_name": "Megachelon",
+    "pursuit_type": "One Time",
+    "category": "Search",
+    "card_reward": "Cryopod Card",
+    "item_reward": "None",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-090",
+    "pursuit_name": "Noglin",
+    "pursuit_type": "One Time",
+    "category": "Search",
+    "card_reward": "Cryopod Card",
+    "item_reward": "None",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-091",
+    "pursuit_name": "Phoenix",
+    "pursuit_type": "One Time",
+    "category": "Search",
+    "card_reward": "Cryopod Card",
+    "item_reward": "None",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-092",
+    "pursuit_name": "Quetz",
+    "pursuit_type": "One Time",
+    "category": "Search",
+    "card_reward": "Cryopod Card",
+    "item_reward": "None",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-093",
+    "pursuit_name": "Reaper",
+    "pursuit_type": "One Time",
+    "category": "Search",
+    "card_reward": "Cryopod Card",
+    "item_reward": "None",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-094",
+    "pursuit_name": "Rock elemental",
+    "pursuit_type": "One Time",
+    "category": "Search",
+    "card_reward": "Cryopod Card",
+    "item_reward": "None",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-095",
+    "pursuit_name": "Shinehorn",
+    "pursuit_type": "One Time",
+    "category": "Search",
+    "card_reward": "Cryopod Card",
+    "item_reward": "None",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-096",
+    "pursuit_name": "Thylacoleo",
+    "pursuit_type": "One Time",
+    "category": "Search",
+    "card_reward": "Cryopod Card",
+    "item_reward": "None",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-097",
+    "pursuit_name": "Unicorn",
+    "pursuit_type": "One Time",
+    "category": "Search",
+    "card_reward": "Cryopod Card",
+    "item_reward": "None",
+    "coin_reward": 250
+  },
+  {
+    "pursuit_id": "REG-098",
+    "pursuit_name": "Voidwyrm",
+    "pursuit_type": "One Time",
+    "category": "Search",
+    "card_reward": "Cryopod Card",
+    "item_reward": "None",
+    "coin_reward": 250
+  }
+]

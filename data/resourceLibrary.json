@@ -1,0 +1,394 @@
+[
+  {
+    "id": "cactus_sap",
+    "name": "Cactus Sap",
+    "tier": "Primitive",
+    "gfiName": "CactusSap",
+    "baseQty": 1000,
+    "stackSize": 100
+  },
+  {
+    "id": "fiber",
+    "name": "Fiber",
+    "tier": "Primitive",
+    "gfiName": "Fiber",
+    "baseQty": 1000,
+    "stackSize": 300
+  },
+  {
+    "id": "flint",
+    "name": "Flint",
+    "tier": "Primitive",
+    "gfiName": "Flint",
+    "baseQty": 1000,
+    "stackSize": 100
+  },
+  {
+    "id": "hide",
+    "name": "Hide",
+    "tier": "Primitive",
+    "gfiName": "Hide",
+    "baseQty": 1000,
+    "stackSize": 200
+  },
+  {
+    "id": "sand",
+    "name": "Sand",
+    "tier": "Primitive",
+    "gfiName": "Sand",
+    "baseQty": 1000,
+    "stackSize": 100
+  },
+  {
+    "id": "stone",
+    "name": "Stone",
+    "tier": "Primitive",
+    "gfiName": "Stone",
+    "baseQty": 1000,
+    "stackSize": 100
+  },
+  {
+    "id": "thatch",
+    "name": "Thatch",
+    "tier": "Primitive",
+    "gfiName": "Thatch",
+    "baseQty": 1000,
+    "stackSize": 200
+  },
+  {
+    "id": "wood",
+    "name": "Wood",
+    "tier": "Primitive",
+    "gfiName": "Wood",
+    "baseQty": 1000,
+    "stackSize": 100
+  },
+  {
+    "id": "fungal_wood",
+    "name": "Fungal Wood",
+    "tier": "Primitive",
+    "gfiName": "Wood_Fungal",
+    "baseQty": 1000,
+    "stackSize": 100
+  },
+  {
+    "id": "bio_toxin",
+    "name": "Bio Toxin",
+    "tier": "Ramshackle",
+    "gfiName": "BioToxin",
+    "baseQty": 100,
+    "stackSize": 100
+  },
+  {
+    "id": "charcoal",
+    "name": "Charcoal",
+    "tier": "Ramshackle",
+    "gfiName": "Charcoal",
+    "baseQty": 500,
+    "stackSize": 100
+  },
+  {
+    "id": "chitin",
+    "name": "Chitin",
+    "tier": "Ramshackle",
+    "gfiName": "Chitin",
+    "baseQty": 500,
+    "stackSize": 100
+  },
+  {
+    "id": "keratin",
+    "name": "Keratin",
+    "tier": "Ramshackle",
+    "gfiName": "Keratin",
+    "baseQty": 500,
+    "stackSize": 100
+  },
+  {
+    "id": "metal",
+    "name": "Metal",
+    "tier": "Ramshackle",
+    "gfiName": "Metal",
+    "baseQty": 900,
+    "stackSize": 300
+  },
+  {
+    "id": "clay",
+    "name": "Clay",
+    "tier": "Ramshackle",
+    "gfiName": "Clay",
+    "baseQty": 500,
+    "stackSize": 100
+  },
+  {
+    "id": "silk",
+    "name": "Silk",
+    "tier": "Ramshackle",
+    "gfiName": "Silk",
+    "baseQty": 600,
+    "stackSize": 200
+  },
+  {
+    "id": "sparkpowder",
+    "name": "Sparkpowder",
+    "tier": "Ramshackle",
+    "gfiName": "Sparkpowder",
+    "baseQty": 1000,
+    "stackSize": 100
+  },
+  {
+    "id": "green_gem",
+    "name": "Green Gem",
+    "tier": "Ramshackle",
+    "gfiName": "Gem_Green",
+    "baseQty": 500,
+    "stackSize": 100
+  },
+  {
+    "id": "cementing_paste",
+    "name": "Cementing Paste",
+    "tier": "Apprentice",
+    "gfiName": "ChitinPaste",
+    "baseQty": 1000,
+    "stackSize": 100
+  },
+  {
+    "id": "gunpowder",
+    "name": "Gunpowder",
+    "tier": "Apprentice",
+    "gfiName": "Gunpowder",
+    "baseQty": 1000,
+    "stackSize": 100
+  },
+  {
+    "id": "metal_ingot",
+    "name": "Metal Ingot",
+    "tier": "Apprentice",
+    "gfiName": "Ingot",
+    "baseQty": 900,
+    "stackSize": 300
+  },
+  {
+    "id": "angler_gel",
+    "name": "Angler Gel",
+    "tier": "Apprentice",
+    "gfiName": "AnglerGel",
+    "baseQty": 500,
+    "stackSize": 100
+  },
+  {
+    "id": "silica_pearls",
+    "name": "Silica Pearls",
+    "tier": "Apprentice",
+    "gfiName": "Silica",
+    "baseQty": 500,
+    "stackSize": 100
+  },
+  {
+    "id": "raw_salt",
+    "name": "Raw Salt",
+    "tier": "Apprentice",
+    "gfiName": "RawSalt",
+    "baseQty": 500,
+    "stackSize": 100
+  },
+  {
+    "id": "pelt",
+    "name": "Pelt",
+    "tier": "Journeyman",
+    "gfiName": "Pelt",
+    "baseQty": 1000,
+    "stackSize": 200
+  },
+  {
+    "id": "sulfur",
+    "name": "Sulfur",
+    "tier": "Journeyman",
+    "gfiName": "Sulfur",
+    "baseQty": 500,
+    "stackSize": 100
+  },
+  {
+    "id": "sap",
+    "name": "Sap",
+    "tier": "Journeyman",
+    "gfiName": "Sap",
+    "baseQty": 300,
+    "stackSize": 30
+  },
+  {
+    "id": "oil",
+    "name": "Oil",
+    "tier": "Journeyman",
+    "gfiName": "Oil",
+    "baseQty": 1000,
+    "stackSize": 100
+  },
+  {
+    "id": "blue_gem",
+    "name": "Blue Gem",
+    "tier": "Journeyman",
+    "gfiName": "Gem_Blue",
+    "baseQty": 500,
+    "stackSize": 100
+  },
+  {
+    "id": "congealed_gas_ball",
+    "name": "Congealed Gas Ball",
+    "tier": "Journeyman",
+    "gfiName": "GasBall",
+    "baseQty": 500,
+    "stackSize": 100
+  },
+  {
+    "id": "electronics",
+    "name": "Electronics",
+    "tier": "Journeyman",
+    "gfiName": "Electronics",
+    "baseQty": 500,
+    "stackSize": 100
+  },
+  {
+    "id": "crystal",
+    "name": "Crystal",
+    "tier": "Journeyman",
+    "gfiName": "Crystal",
+    "baseQty": 1000,
+    "stackSize": 100
+  },
+  {
+    "id": "giant_bee_honey",
+    "name": "Giant Bee Honey",
+    "tier": "Mastercraft",
+    "gfiName": "Honey",
+    "baseQty": 100,
+    "stackSize": 1
+  },
+  {
+    "id": "element_dust",
+    "name": "Element Dust",
+    "tier": "Mastercraft",
+    "gfiName": "ElementDust",
+    "baseQty": 5000,
+    "stackSize": 1000
+  },
+  {
+    "id": "propellant",
+    "name": "Propellant",
+    "tier": "Mastercraft",
+    "gfiName": "Propellant",
+    "baseQty": 500,
+    "stackSize": 100
+  },
+  {
+    "id": "gasoline",
+    "name": "Gasoline",
+    "tier": "Mastercraft",
+    "gfiName": "Gasoline",
+    "baseQty": 500,
+    "stackSize": 100
+  },
+  {
+    "id": "obsidian",
+    "name": "Obsidian",
+    "tier": "Mastercraft",
+    "gfiName": "Obsidian",
+    "baseQty": 1000,
+    "stackSize": 100
+  },
+  {
+    "id": "preserving_salt",
+    "name": "Preserving Salt",
+    "tier": "Mastercraft",
+    "gfiName": "PreservingSalt",
+    "baseQty": 30,
+    "stackSize": 6
+  },
+  {
+    "id": "element_ore",
+    "name": "Element Ore",
+    "tier": "Mastercraft",
+    "gfiName": "ElementOre",
+    "baseQty": 1000,
+    "stackSize": 100
+  },
+  {
+    "id": "leech_blood",
+    "name": "Leech Blood",
+    "tier": "Mastercraft",
+    "gfiName": "LeechBlood",
+    "baseQty": 250,
+    "stackSize": 50
+  },
+  {
+    "id": "black_pearl",
+    "name": "Black Pearl",
+    "tier": "Ascendant",
+    "gfiName": "BlackPearl",
+    "baseQty": 1000,
+    "stackSize": 200
+  },
+  {
+    "id": "element",
+    "name": "Element",
+    "tier": "Ascendant",
+    "gfiName": "Element",
+    "baseQty": 50,
+    "stackSize": 100
+  },
+  {
+    "id": "element_shard",
+    "name": "Element Shard",
+    "tier": "Ascendant",
+    "gfiName": "ElementShard",
+    "baseQty": 1000,
+    "stackSize": 1000
+  },
+  {
+    "id": "polymer",
+    "name": "Polymer",
+    "tier": "Ascendant",
+    "gfiName": "Polymer",
+    "baseQty": 500,
+    "stackSize": 100
+  },
+  {
+    "id": "ambergris",
+    "name": "Ambergris",
+    "tier": "Ascendant",
+    "gfiName": "Ambergris",
+    "baseQty": 100,
+    "stackSize": 1
+  },
+  {
+    "id": "red_gem",
+    "name": "Red Gem",
+    "tier": "Ascendant",
+    "gfiName": "Gem_Red",
+    "baseQty": 500,
+    "stackSize": 100
+  },
+  {
+    "id": "shell_fragment",
+    "name": "Shell Fragment",
+    "tier": "Ascendant",
+    "gfiName": "ShellFragment",
+    "baseQty": 1000,
+    "stackSize": 100
+  },
+  {
+    "id": "ammonite_bile",
+    "name": "Ammonite Bile",
+    "tier": "Ascendant",
+    "gfiName": "AmmoniteBile",
+    "baseQty": 100,
+    "stackSize": 50
+  },
+  {
+    "id": "absorbent_substrate",
+    "name": "Absorbent Substrate",
+    "tier": "Ascendant",
+    "gfiName": "Substrate",
+    "baseQty": 100,
+    "stackSize": 100
+  }
+]

@@ -1,0 +1,4170 @@
+[
+  {
+    "item_name": "Allosaurus Brain",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_Allo",
+    "base_qty": 5,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Alpha Basilisk Fang",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_AlphaBasilisk",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Alpha Carnotaurus Arm",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_AlphaCarno",
+    "base_qty": 3,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Alpha Deathworm Trophy",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "Trophy_AlphaDeathworm",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Alpha Karkinos Claw",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_AlphaCrab",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Alpha Leedsichthys Blubber",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_AlphaLeeds",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Alpha Megalodon Fin",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_AlphaMegalodon",
+    "base_qty": 3,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Alpha Mosasaur Tooth",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_AlphaMosasaur",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Alpha Raptor Claw",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_AlphaRaptor",
+    "base_qty": 3,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Alpha Reaper King Barb",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_AlphaReaper",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Alpha Tusoteuthis Eye",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_AlphaTuso",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Alpha Tyrannosaur Tooth",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_AlphaRex",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Alpha Wyvern Trophy",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "Trophy_AlphaWyvern",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Argentavis Talon",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_Argent",
+    "base_qty": 5,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Basilisk Scale",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_Basilisk",
+    "base_qty": 5,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Basilosaurus Blubber",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_Basilo",
+    "base_qty": 5,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Corrupt Heart (Extinction)",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "CorruptHeart",
+    "base_qty": 50,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Deathworm Horn",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "Horn",
+    "base_qty": 5,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Fire Talon (Wyvern)",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_FireWyvern",
+    "base_qty": 5,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Gasbags",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_Gasbag",
+    "base_qty": 5,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Giganotosaurus Heart",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_Giga",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Ice Talon (Wyvern)",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_IceWyvern",
+    "base_qty": 5,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Lightning Talon (Wyvern)",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_LightningWyvern",
+    "base_qty": 5,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Megalania Toxin",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_Megalania",
+    "base_qty": 5,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Megalodon Tooth",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_Megalodon",
+    "base_qty": 5,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Nameless Venom",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "Venom",
+    "base_qty": 10,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Poison Talon (Wyvern)",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_PoisonWyvern",
+    "base_qty": 5,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Reaper Pheromone Gland",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_Reaper",
+    "base_qty": 5,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Rock Drake Feather",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_RockDrake",
+    "base_qty": 10,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Sarcosuchus Skin",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_Sarco",
+    "base_qty": 5,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Sauropod Vertebra",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_Sauropod",
+    "base_qty": 5,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Spinosaurus Sail",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_Spino",
+    "base_qty": 5,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Therizinosaurus Claws",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_Theri",
+    "base_qty": 5,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Thylacoleo Hook-Claw",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_Thyla",
+    "base_qty": 5,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Titanoboa Venom",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_Boa",
+    "base_qty": 5,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Tusoteuthis Tentacle",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_Tuso",
+    "base_qty": 5,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Tyrannosaurus Arm",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_Rex",
+    "base_qty": 5,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Yutyrannus Lungs",
+    "reward_category": "ApexDrops",
+    "type": "Tributes",
+    "gfi_path": "ApexDrop_Yuty",
+    "base_qty": 5,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Apprentice Resource Pack",
+    "reward_category": "Apprentice Resource Pack",
+    "type": "Apprentice Resource Pack",
+    "gfi_path": "cheat gfi Paste 100 0 0 |  gfi Paste 100 0 0 |  gfi Paste 100 0 0 |  gfi Paste 100 0 0 |  gfi Paste 100 0 0 |  gfi Paste 100 0 0 |  gfi Paste 100 0 0 |  gfi Paste 100 0 0 |  gfi Paste 100 0 0 |  gfi Paste 100 0 0 |  gfi Gunpowder 100 0 0 |  gfi Gunpowder 100 0 0 |  gfi Gunpowder 100 0 0 |  gfi Gunpowder 100 0 0 |  gfi Gunpowder 100 0 0 |  gfi Gunpowder 100 0 0 |  gfi Gunpowder 100 0 0 |  gfi Gunpowder 100 0 0 |  gfi Gunpowder 100 0 0 |  gfi Gunpowder 100 0 0 |  gfi MetalIngot 300 0 0 |  gfi MetalIngot 300 0 0 |  gfi MetalIngot 300 0 0 |  gfi AnglerGel 100 0 0 |  gfi AnglerGel 100 0 0 |  gfi AnglerGel 100 0 0 |  gfi AnglerGel 100 0 0 |  gfi AnglerGel 100 0 0 |  gfi Silicon 100 0 0 |  gfi Silicon 100 0 0 |  gfi Silicon 100 0 0 |  gfi Silicon 100 0 0 |  gfi Silicon 100 0 0 |  gfi RawSalt 100 0 0 |  gfi RawSalt 100 0 0 |  gfi RawSalt 100 0 0 |  gfi RawSalt 100 0 0 |  gfi RawSalt 100 0 0",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Ascendant Resource Pack",
+    "reward_category": "Ascendant Resource Pack",
+    "type": "Ascendant Resource Pack",
+    "gfi_path": "cheat gfi BlackPearl 200 0 0 |  gfi BlackPearl 200 0 0 |  gfi BlackPearl 200 0 0 |  gfi BlackPearl 200 0 0 |  gfi BlackPearl 200 0 0 |  gfi Element 50 0 0 |  gfi Shard 1000 0 0 |  gfi Polymer 100 0 0 |  gfi Polymer 100 0 0 |  gfi Polymer 100 0 0 |  gfi Polymer 100 0 0 |  gfi Polymer 100 0 0 |  gfi Ambergris 100 0 0 |  gfi Gem_CoreRed 100 0 0 |  gfi Gem_CoreRed 100 0 0 |  gfi Gem_CoreRed 100 0 0 |  gfi Gem_CoreRed 100 0 0 |  gfi Gem_CoreRed 100 0 0 |  gfi ShellFragment 100 0 0 |  gfi ShellFragment 100 0 0 |  gfi ShellFragment 100 0 0 |  gfi ShellFragment 100 0 0 |  gfi ShellFragment 100 0 0 |  gfi ShellFragment 100 0 0 |  gfi ShellFragment 100 0 0 |  gfi ShellFragment 100 0 0 |  gfi ShellFragment 100 0 0 |  gfi ShellFragment 100 0 0 |  gfi Ammonite 50 0 0 |  gfi Ammonite 50 0 0 |  gfi Substrate 100 0 0",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Ammo Box",
+    "reward_category": "Blueprint",
+    "type": "Utility",
+    "gfi_path": "AmmoBox",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Assault Rifle",
+    "reward_category": "Blueprint",
+    "type": "Weapons",
+    "gfi_path": "PrimalItem_WeaponMachinedAssaultRifle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Boomerang",
+    "reward_category": "Blueprint",
+    "type": "Weapons",
+    "gfi_path": "Boomerang",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Chainsaw",
+    "reward_category": "Blueprint",
+    "type": "Weapons",
+    "gfi_path": "ChainSaw",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Charge Lantern",
+    "reward_category": "Blueprint",
+    "type": "Utility",
+    "gfi_path": "WeaponChargeLantern",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Climbing Pick",
+    "reward_category": "Blueprint",
+    "type": "Utility",
+    "gfi_path": "WeaponClimbPicks",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Compound Bow",
+    "reward_category": "Blueprint",
+    "type": "Weapons",
+    "gfi_path": "PrimalItem_WeaponCompoundBow",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Crossbow",
+    "reward_category": "Blueprint",
+    "type": "Weapons",
+    "gfi_path": "PrimalItem_WeaponCrossbow",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Desert Cloth Boots",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "DesertClothBoots",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Desert Cloth Gloves",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "DesertClothGloves",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Desert Cloth Goggles",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "DesertClothGoggles",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Desert Cloth Pants",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "DesertClothPants",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Desert Cloth Shirt",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "DesertClothShirt",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Egg Incubator",
+    "reward_category": "Blueprint",
+    "type": "Utility",
+    "gfi_path": "Incubator",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Fabricated Sniper",
+    "reward_category": "Blueprint",
+    "type": "Weapons",
+    "gfi_path": "PrimalItem_WeaponMachinedSniper",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Flak Boots",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "PrimalItemArmor_MetalBoots",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Flak Chestpiece",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "PrimalItemArmor_MetalShirt",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Flak Gauntlets",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "PrimalItemArmor_MetalGloves",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Flak Helmet",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "PrimalItemArmor_MetalHelmet",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Flak Leggings",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "PrimalItemArmor_MetalPants",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Flamethrower",
+    "reward_category": "Blueprint",
+    "type": "Weapons",
+    "gfi_path": "WeapFlamethrower",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Fur Boots",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "FurBoots",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Fur Cap",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "FurHelmet",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Fur Chestpiece",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "FurShirt",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Fur Gauntlets",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "FurGloves",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Fur Leggings",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "FurPants",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Ghillie Boots",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "GhillieBoots",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Ghillie Chestpiece",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "GhillieShirt",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Ghillie Gauntlets",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "GhillieGloves",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Ghillie Leggings",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "GhilliePants",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Ghillie Mask",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "GhillieHelmet",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Glider Suit Attachment",
+    "reward_category": "Blueprint",
+    "type": "Utility",
+    "gfi_path": "Glider",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Harpoon Launcher",
+    "reward_category": "Blueprint",
+    "type": "Weapons",
+    "gfi_path": "WeaponHarpoon",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Hazard Suit Boots",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "PrimalItemArmor_HazardSuitBoots",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Hazard Suit Gloves",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "PrimalItemArmor_HazardSuitGloves",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Hazard Suit Hat",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "PrimalItemArmor_HazardSuitHelmet",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Hazard Suit Pants",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "PrimalItemArmor_HazardSuitPants",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Hazard Suit Shirt",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "PrimalItemArmor_HazardSuitShirt",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Loadout Mannequin",
+    "reward_category": "Blueprint",
+    "type": "Utility",
+    "gfi_path": "LoadoutMannequin",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Longneck Rifle",
+    "reward_category": "Blueprint",
+    "type": "Weapons",
+    "gfi_path": "PrimalItem_WeaponOneShotRifle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Minigun",
+    "reward_category": "Blueprint",
+    "type": "Weapons",
+    "gfi_path": "WeaponMinigun",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Mining Drill",
+    "reward_category": "Blueprint",
+    "type": "Weapons",
+    "gfi_path": "WeapMiningDrill",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Net Projectile",
+    "reward_category": "Blueprint",
+    "type": "Utility",
+    "gfi_path": "NetAmmo",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Pike",
+    "reward_category": "Blueprint",
+    "type": "Weapons",
+    "gfi_path": "PrimalItem_WeaponPike",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Pump-Action Shotgun",
+    "reward_category": "Blueprint",
+    "type": "Weapons",
+    "gfi_path": "PrimalItem_WeaponMachinedShotgun",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Riot Boots",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "PrimalItemArmor_RiotBoots",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Riot Chestpiece",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "PrimalItemArmor_RiotShirt",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Riot Gauntlets",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "PrimalItemArmor_RiotGloves",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Riot Helmet",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "PrimalItemArmor_RiotHelmet",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Riot Leggings",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "PrimalItemArmor_RiotPants",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Scuba Flippers",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "ScubaBoots_Flippers",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Scuba Mask",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "ScubaHelmet_Goggles",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Scuba Tank",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "ScubaShirt_SuitWithTank",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Sword",
+    "reward_category": "Blueprint",
+    "type": "Weapons",
+    "gfi_path": "PrimalItem_WeaponSword",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Tek Boots",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "PrimalItemArmor_TekBoots",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Tek Bow",
+    "reward_category": "Blueprint",
+    "type": "Weapons",
+    "gfi_path": "WeaponTekBow",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Tek Canteen",
+    "reward_category": "Blueprint",
+    "type": "Utility",
+    "gfi_path": "TekCanteen",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Tek Chestpiece",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "PrimalItemArmor_TekShirt",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Tek Claws",
+    "reward_category": "Blueprint",
+    "type": "Weapons",
+    "gfi_path": "WeaponTekClaws",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Tek Gauntlets",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "PrimalItemArmor_TekGloves",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Tek Grenade Launcher",
+    "reward_category": "Blueprint",
+    "type": "Weapons",
+    "gfi_path": "WeaponTekGrenadeLauncher",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Tek Helmet",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "PrimalItemArmor_TekHelmet",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Tek Hover Skiff",
+    "reward_category": "Blueprint",
+    "type": "Utility",
+    "gfi_path": "HoverSkiff",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Tek Leggings",
+    "reward_category": "Blueprint",
+    "type": "Armor",
+    "gfi_path": "PrimalItemArmor_TekPants",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Tek Phase Pistol",
+    "reward_category": "Blueprint",
+    "type": "Weapons",
+    "gfi_path": "WeaponTekPistol",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Tek Railgun",
+    "reward_category": "Blueprint",
+    "type": "Weapons",
+    "gfi_path": "WeaponTekSniper",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Tek Rifle",
+    "reward_category": "Blueprint",
+    "type": "Weapons",
+    "gfi_path": "PrimalItem_WeaponTekRifle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Tek Sensor",
+    "reward_category": "Blueprint",
+    "type": "Utility",
+    "gfi_path": "TekAlarm",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Tek Sword",
+    "reward_category": "Blueprint",
+    "type": "Weapons",
+    "gfi_path": "WeaponTekSword",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Whip",
+    "reward_category": "Blueprint",
+    "type": "Weapons",
+    "gfi_path": "WeapWhip",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Zip-Line Motor Attachment",
+    "reward_category": "Blueprint",
+    "type": "Utility",
+    "gfi_path": "ZiplineMotor",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Allosaurus Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Allo",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Ankylo Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Ankylo",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Araneo Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Spider",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Argentavis Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Argentavis",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Arthropluera Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Arthro",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Astrocetus Tek Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "SpaceWhale",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Astrodelphis Starwing Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "SpaceDolphinSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Baryonyx Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Baryonyx",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Basilisk Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "BasiliskSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Basilosaurus Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Basil",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Beelzebufo Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Toad",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Bronto Platform Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "SauroSaddle_Platform",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Bronto Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "SauroSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Carbonemys Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Turtle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Carcharo Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "CarchaSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Carno Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Carno",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Castoroides Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "BeaverSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Chalicotherium Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "ChalicoSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Daeodon Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Daeodon",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Diplodocus Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "DiplodocusSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Dire Bear Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "DireBearSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Doedicurus Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "DoedSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Dunkleosteus Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "DunkleosteusSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Equus Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Equus",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Gacha Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Gacha",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Gallimimus Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Galli",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Gasbags Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "GasBagsSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Giganotosaurus Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "GigantSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Hyaenodon Meatpack",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Hyaenodon",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Ichthyosaurus Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Dolphin",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Iguanodon Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Iguanodon",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Kaprosuchus Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Kapro",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Karkinos Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "CrabSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Lymantria Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "MothSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Maewing Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "MilkGliderSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Maewing Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "MilkGliderSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Magmasaur Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "CherufeSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Mammoth Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Mammoth",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Managarmr Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "IceJumper",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Managarmr Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "IceJumperSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Manta Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Manta",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Mantis Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "MantisSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Megachelon Platform Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "GiantTurtleSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Megalania Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Megalania",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Megaloceros Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "StagSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Megalodon Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Megalodon",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Megalodon Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "PrimalItemArmor_MegalodonSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Megalodon Tek Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "MegalodonSaddle_Tek",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Megalosaurus Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Megalosaurus",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Megatherium Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Megatherium",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Megatherium Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "PrimalItemArmor_MegatheriumSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Morellatops Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "CamelsaurusSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Mosasaur Platform Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "MosaSaddle_Platform",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Mosasaur Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "MosaSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Mosasaur Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "PrimalItemArmor_MosaSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Mosasaur Tek Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "MosaSaddle_Tek",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Pachy Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Pachy",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Pachyrhinosaurus Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Pachyrhino",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Paracer Platform Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "ParacerSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Paracer Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Paracer",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Parasaur Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Para",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Pelagornis Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "PelaSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Phiomia Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Phiomia",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Plesiosaur Platform Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "PlesiSaddle_Platform",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Plesiosaur Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Plesi",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Procoptodon Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Procoptodon",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Pteranodon Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Ptero",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Pteranodon Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "PrimalItemArmor_PteroSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Pulmonoscorpius Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Scorpion",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Quetz Platform Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "QuetzSaddle_Platform",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Quetz Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "QuetzSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Quetzal Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "PrimalItemArmor_QuetzSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Raptor Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "RaptorSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Ravager Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "CaveWolfSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Ravager Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "CaveWolfSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Rex Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "RexSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Rex Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "PrimalItemArmor_RexSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Rex Tek Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "RexSaddle_Tek",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Rhyniognatha Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "cheat giveitem \"\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RhynioSaddle.PrimalItemArmor_RhynioSaddle'\"\"",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Rhyniognatha Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "PrimalItemArmor_RhynioSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Rock Drake Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "DrakeSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Rock Drake Tek Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "DrakeSaddle_Tek",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Rock Drake Tek Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "RockDrakeSaddle_Tek",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Rock Golem Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "RockGolemSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Roll Rat Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "MoleRatSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Roll Rat Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "MolePigSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Sabertooth Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "SaberSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Sarco Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Sarco",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Snow Owl Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "OwlSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Spino Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Spino",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Stego Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "StegoSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Stego Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "PrimalItemArmor_StegoSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Tapejara Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "PrimalItemArmor_TapejaraSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Tapejara Tek Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Tapejara_Tek",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Terror Bird Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Terror",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Therizinosaurus Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Therizinosaurus",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Thorny Dragon Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "SpineyLizardSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Thylacoleo Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "ThylacoSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Titanosaur Platform Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Titan",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Trike Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "TrikeSaddle",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Tusoteuthis Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Tuso",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Velonasaur Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Spindles",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Woolly Rhino Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Rhino",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Yutyrannus Saddle",
+    "reward_category": "Blueprint/Saddle",
+    "type": "Saddles",
+    "gfi_path": "Yuty",
+    "base_qty": 1,
+    "requires_quality": 1
+  },
+  {
+    "item_name": "Broodmother Alpha",
+    "reward_category": "BossAlpha",
+    "type": "Boss",
+    "gfi_path": "summon bossteleporter_spider_hard_c",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Dragon Alpha",
+    "reward_category": "BossAlpha",
+    "type": "Boss",
+    "gfi_path": "summon bossteleporter_dragon_hard_c",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "King Titan Alpha",
+    "reward_category": "BossAlpha",
+    "type": "Boss",
+    "gfi_path": "summon EX_BossTeleporter_FZ_hard_c",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Manticore Alpha",
+    "reward_category": "BossAlpha",
+    "type": "Boss",
+    "gfi_path": "summon bossteleporter_manticore_hard_c",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Megapithecus Alpha",
+    "reward_category": "BossAlpha",
+    "type": "Boss",
+    "gfi_path": "summon bossteleporter_gorilla_hard_c",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Overseer Alpha",
+    "reward_category": "BossAlpha",
+    "type": "Boss",
+    "gfi_path": "summon Ascensionteleporter_hard_c",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Ragnarok Alpha",
+    "reward_category": "BossAlpha",
+    "type": "Boss",
+    "gfi_path": "summon bossteleport_twobosses_dragonmanticore_hard_c",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Rockwell Alpha",
+    "reward_category": "BossAlpha",
+    "type": "Boss",
+    "gfi_path": "summon bossteleporter_rockwell_hard_c",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Broodmother Beta",
+    "reward_category": "BossBeta",
+    "type": "Boss",
+    "gfi_path": "summon bossteleporter_spider_medium_c",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Dragon Beta",
+    "reward_category": "BossBeta",
+    "type": "Boss",
+    "gfi_path": "summon bossteleporter_dragon_medium_c",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "King Titan Beta",
+    "reward_category": "BossBeta",
+    "type": "Boss",
+    "gfi_path": "summon EX_BossTeleporter_FZ_medium_c",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Manticore Beta",
+    "reward_category": "BossBeta",
+    "type": "Boss",
+    "gfi_path": "summon bossteleporter_manticore_medium_c",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Megapithecus Beta",
+    "reward_category": "BossBeta",
+    "type": "Boss",
+    "gfi_path": "summon bossteleporter_gorilla_medium_c",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Overseer Beta",
+    "reward_category": "BossBeta",
+    "type": "Boss",
+    "gfi_path": "summon Ascensionteleporter_medium_c",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Ragnarok Beta",
+    "reward_category": "BossBeta",
+    "type": "Boss",
+    "gfi_path": "summon bossteleport_twobosses_dragonmanticore_medium_c",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Rockwell Beta",
+    "reward_category": "BossBeta",
+    "type": "Boss",
+    "gfi_path": "summon bossteleporter_rockwell_medium_c",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Broodmother Gamma",
+    "reward_category": "BossGamma",
+    "type": "Boss",
+    "gfi_path": "summon bossteleporter_spider_c",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Desert Titan",
+    "reward_category": "BossGamma",
+    "type": "Boss",
+    "gfi_path": "summon EX_BossTeleporter_Desert_c",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Dragon Gamma",
+    "reward_category": "BossGamma",
+    "type": "Boss",
+    "gfi_path": "summon bossteleporter_dragon_c",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Forest Titan",
+    "reward_category": "BossGamma",
+    "type": "Boss",
+    "gfi_path": "summon EX_BossTeleporter_Forest_c",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Ice Titan",
+    "reward_category": "BossGamma",
+    "type": "Boss",
+    "gfi_path": "summon EX_BossTeleporter_Snow_c",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "King Titan Gamma",
+    "reward_category": "BossGamma",
+    "type": "Boss",
+    "gfi_path": "summon EX_BossTeleporter_FZ_c",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Manticore Gamma",
+    "reward_category": "BossGamma",
+    "type": "Boss",
+    "gfi_path": "summon bossteleporter_manticore_c",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Megapithecus Gamma",
+    "reward_category": "BossGamma",
+    "type": "Boss",
+    "gfi_path": "summon bossteleporter_gorilla_c",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Overseer Gamma",
+    "reward_category": "BossGamma",
+    "type": "Boss",
+    "gfi_path": "summon Ascensionteleporter_easy_c",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Ragnarok Gamma",
+    "reward_category": "BossGamma",
+    "type": "Boss",
+    "gfi_path": "summon bossteleport_twobosses_dragonmanticore_c",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Rockwell Gamma",
+    "reward_category": "BossGamma",
+    "type": "Boss",
+    "gfi_path": "summon bossteleporter_rockwell_c",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Giga Bionic Costume",
+    "reward_category": "Costume",
+    "type": "Costume",
+    "gfi_path": "BionicGigant",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Mosasaurus Bionic Costume",
+    "reward_category": "Costume",
+    "type": "Costume",
+    "gfi_path": "BionicMosa",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Parasaur Bionic Costume",
+    "reward_category": "Costume",
+    "type": "Costume",
+    "gfi_path": "BionicPara",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Quetzal Bionic Costume",
+    "reward_category": "Costume",
+    "type": "Costume",
+    "gfi_path": "BionicQuetz",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Raptor Bionic Costume",
+    "reward_category": "Costume",
+    "type": "Costume",
+    "gfi_path": "BionicRaptor",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Rex Bionic Costume",
+    "reward_category": "Costume",
+    "type": "Costume",
+    "gfi_path": "BionicRex",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Stegosaurus Bionic Costume",
+    "reward_category": "Costume",
+    "type": "Costume",
+    "gfi_path": "BionicStego",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Triceratops Bionic Costume",
+    "reward_category": "Costume",
+    "type": "Costume",
+    "gfi_path": "BionicTrike",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Space Crate Selector Card",
+    "reward_category": "Crate",
+    "type": "Loot",
+    "gfi_path": "DCMSET Skybox",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Cryopod",
+    "reward_category": "Cryopod",
+    "type": "Cryopod",
+    "gfi_path": "Cryopod",
+    "base_qty": 5,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Air Drums Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "UnlockEmote_AirDrums",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Air Guitar Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "UnlockEmote_AirGuitar",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Archer Flex Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "UnlockEmote_ArcherFlex",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Belly Rub Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "UnlockEmote_BellyRub",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Bicep Smooch Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "UnlockEmote_BicepSmooch",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Bunny Hop Dance Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "UnlockEmote_BunnyHop",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Caroling Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "UnlockEmote_Caroling",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Dance Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "UnlockEmote_Dance",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Evil Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "UnlockEmote_Evil",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Flip In Place Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "UnlockEmote_FlipInPlace",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Flirty Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "UnlockEmote_Flirty",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Food Coma Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "UnlockEmote_FoodComa",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Happy Clap Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "UnlockEmote_HappyClap",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Heart Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "UnlockEmote_Heart",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Hula Dance Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "UnlockEmote_HulaDance",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Hungry Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "UnlockEmote_Hungry",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Knock Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "UnlockEmote_Knock",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Mosh Pit Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "UnlockEmote_MoshPit",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Nutcracker Dance Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "UnlockEmote_Nutcracker",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Panic Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "UnlockEmote_Panic",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Santa Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "UnlockEmote_Santa",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Scare Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "UnlockEmote_Scare",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Self Hug Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "UnlockEmote_SelfHug",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Sit Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "giveitem \"\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Emotes/PrimalItemConsumable_UnlockEmote_Sit.PrimalItemConsumable_UnlockEmote_Sit'\"\"",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Snowball Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "UnlockEmote_Snowball",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Tail Wiggle Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "UnlockEmote_TailWiggle",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "This Big Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "giveitem \"\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Emotes/PrimalItemConsumable_UnlockEmote_ThisBig.PrimalItemConsumable_UnlockEmote_ThisBig'\"\"",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Turkey Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "UnlockEmote_Turkey",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Zombie Emote",
+    "reward_category": "Emote",
+    "type": "Emote",
+    "gfi_path": "UnlockEmote_Zombie",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Curly Beard",
+    "reward_category": "Facial",
+    "type": "Facial Hairstyle",
+    "gfi_path": "giveitem \"\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_UnlockHair_Facial_CurlyBeard.PrimalItemConsumable_UnlockHair_Facial_CurlyBeard'\"\"",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Dread Beard",
+    "reward_category": "Facial",
+    "type": "Facial Hairstyle",
+    "gfi_path": "giveitem \"\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_UnlockHair_Facial_Dreadbeard.PrimalItemConsumable_UnlockHair_Facial_Dreadbeard'\"\"",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Goatee",
+    "reward_category": "Facial",
+    "type": "Facial Hairstyle",
+    "gfi_path": "giveitem \"\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_UnlockHair_Facial_Goatee.PrimalItemConsumable_UnlockHair_Facial_Goatee'\"\"",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Moustache",
+    "reward_category": "Facial",
+    "type": "Facial Hairstyle",
+    "gfi_path": "giveitem \"\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_UnlockHair_Facial_Moustache.PrimalItemConsumable_UnlockHair_Facial_Moustache'\"\"",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Mutton Chops",
+    "reward_category": "Facial",
+    "type": "Facial Hairstyle",
+    "gfi_path": "giveitem \"\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_UnlockHair_Facial_MuttonChops.PrimalItemConsumable_UnlockHair_Facial_MuttonChops'\"\"",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Romantic Beard",
+    "reward_category": "Facial",
+    "type": "Facial Hairstyle",
+    "gfi_path": "giveitem \"\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_UnlockHairstyle_Facial_Romantic.PrimalItemConsumable_UnlockHairstyle_Facial_Romantic'\"\"",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Viking Beard",
+    "reward_category": "Facial",
+    "type": "Facial Hairstyle",
+    "gfi_path": "giveitem \"\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_UnlockHair_Facial_VikingBeard.PrimalItemConsumable_UnlockHair_Facial_VikingBeard'\"\"",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Insta Growth Card",
+    "reward_category": "Growth",
+    "type": "Baby Care",
+    "gfi_path": "cheat SetBabyAge 1",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Afro",
+    "reward_category": "Hairstyle",
+    "type": "Hairstyle",
+    "gfi_path": "GiveItem \"\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_UnlockHair_Head_Afro.PrimalItemConsumable_UnlockHair_Head_Afro'\"\"",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Braids",
+    "reward_category": "Hairstyle",
+    "type": "Hairstyle",
+    "gfi_path": "GiveItem \"\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_UnlockHair_Head_Braids.PrimalItemConsumable_UnlockHair_Head_Braids'\"\"",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Dreadlock",
+    "reward_category": "Hairstyle",
+    "type": "Hairstyle",
+    "gfi_path": "GiveItem \"\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_UnlockHair_Head_Dreadlocks.PrimalItemConsumable_UnlockHair_Head_Dreadlocks'\"\"",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Mohawk",
+    "reward_category": "Hairstyle",
+    "type": "Hairstyle",
+    "gfi_path": "GiveItem \"\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_UnlockHair_Head_Mohawk.PrimalItemConsumable_UnlockHair_Head_Mohawk'\"\"",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Ponytail",
+    "reward_category": "Hairstyle",
+    "type": "Hairstyle",
+    "gfi_path": "GiveItem \"\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_UnlockHair_Head_Ponytail.PrimalItemConsumable_UnlockHair_Head_Ponytail'\"\"",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Romantic",
+    "reward_category": "Hairstyle",
+    "type": "Hairstyle",
+    "gfi_path": "GiveItem \"\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_UnlockHairstyle_Head_Romantic.PrimalItemConsumable_UnlockHairstyle_Head_Romantic'\"\"",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Viking",
+    "reward_category": "Hairstyle",
+    "type": "Hairstyle",
+    "gfi_path": "GiveItem \"\"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_UnlockHair_Head_Viking.PrimalItemConsumable_UnlockHair_Head_Viking'\"\"",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Insta Heal Card",
+    "reward_category": "Healing",
+    "type": "Heal",
+    "gfi_path": "cheat Use Heal all from console",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Start Horde",
+    "reward_category": "Horde",
+    "type": "Tower Defence",
+    "gfi_path": "cheat StartNearestHorde",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Insta Imprint Card",
+    "reward_category": "Imprint",
+    "type": "Baby Care",
+    "gfi_path": "cheat SetImprintQuality 1",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Journeyman Resource Pack",
+    "reward_category": "Journeyman Resource Pack",
+    "type": "Journeyman Resource Pack",
+    "gfi_path": "cheat gfi Pelt 200 0 0 |  gfi Pelt 200 0 0 |  gfi Pelt 200 0 0 |  gfi Pelt 200 0 0 |  gfi Pelt 200 0 0 |  gfi Sulfur 100 0 0 |  gfi Sulfur 100 0 0 |  gfi Sulfur 100 0 0 |  gfi Sulfur 100 0 0 |  gfi Sulfur 100 0 0 |  gfi TreeSap 30 0 0 |  gfi TreeSap 30 0 0 |  gfi TreeSap 30 0 0 |  gfi TreeSap 30 0 0 |  gfi TreeSap 30 0 0 |  gfi TreeSap 30 0 0 |  gfi TreeSap 30 0 0 |  gfi TreeSap 30 0 0 |  gfi TreeSap 30 0 0 |  gfi TreeSap 30 0 0 |  gfi Oil 100 0 0 |  gfi Oil 100 0 0 |  gfi Oil 100 0 0 |  gfi Oil 100 0 0 |  gfi Oil 100 0 0 |  gfi Oil 100 0 0 |  gfi Oil 100 0 0 |  gfi Oil 100 0 0 |  gfi Oil 100 0 0 |  gfi Oil 100 0 0 |  gfi Gem_CoreBlue 100 0 0 |  gfi Gem_CoreBlue 100 0 0 |  gfi Gem_CoreBlue 100 0 0 |  gfi Gem_CoreBlue 100 0 0 |  gfi Gem_CoreBlue 100 0 0 | gfi GasB 100 0 0 |  gfi GasB 100 0 0 |  gfi GasB 100 0 0 |  gfi GasB 100 0 0 |  gfi GasB 100 0 0 |  gfi Electronics 100 0 0 |  gfi Electronics 100 0 0 |  gfi Electronics 100 0 0 |  gfi Electronics 100 0 0 |  gfi Electronics 100 0 0 |  gfi Crystal 100 0 0 |  gfi Crystal 100 0 0 |  gfi Crystal 100 0 0 |  gfi Crystal 100 0 0 |  gfi Crystal 100 0 0 |  gfi Crystal 100 0 0 |  gfi Crystal 100 0 0 |  gfi Crystal 100 0 0 |  gfi Crystal 100 0 0 |  gfi Crystal 100 0 0",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Basic Kibble",
+    "reward_category": "Kibble",
+    "type": "Kibbles",
+    "gfi_path": "Kibble_Base_XSmall",
+    "base_qty": 2,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Exceptional Kibble",
+    "reward_category": "Kibble",
+    "type": "Kibbles",
+    "gfi_path": "Kibble_Base_XLarge",
+    "base_qty": 2,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Extraordinary Kibble",
+    "reward_category": "Kibble",
+    "type": "Kibbles",
+    "gfi_path": "Kibble_Base_Special",
+    "base_qty": 2,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Regular Kibble",
+    "reward_category": "Kibble",
+    "type": "Kibbles",
+    "gfi_path": "Kibble_Base_Medium",
+    "base_qty": 2,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Simple Kibble",
+    "reward_category": "Kibble",
+    "type": "Kibbles",
+    "gfi_path": "Kibble_Base_Small",
+    "base_qty": 2,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Superior Kibble",
+    "reward_category": "Kibble",
+    "type": "Kibbles",
+    "gfi_path": "Kibble_Base_Large",
+    "base_qty": 2,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Insta Level Card",
+    "reward_category": "Level UP",
+    "type": "Boost",
+    "gfi_path": "LevelUp",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Insta Level AOE Card",
+    "reward_category": "Level Up AOE",
+    "type": "Booost",
+    "gfi_path": "LevelUpAOE",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Mastercraft Resource Pack",
+    "reward_category": "Mastercraft Resource Pack",
+    "type": "Mastercraft Resource Pack",
+    "gfi_path": "cheat gfi Honey 100 0 0 |  gfi ElementDust 1000 0 0 |  gfi ElementDust 1000 0 0 |  gfi ElementDust 1000 0 0 |  gfi ElementDust 1000 0 0 |  gfi ElementDust 1000 0 0 |  gfi Propellant 100 0 0 |  gfi Propellant 100 0 0 |  gfi Propellant 100 0 0 |  gfi Propellant 100 0 0 |  gfi Propellant 100 0 0 |  gfi Gasoline 100 0 0 |  gfi Gasoline 100 0 0 |  gfi Gasoline 100 0 0 |  gfi Gasoline 100 0 0 |  gfi Gasoline 100 0 0 |  gfi Obsidian 100 0 0 |  gfi Obsidian 100 0 0 |  gfi Obsidian 100 0 0 |  gfi Obsidian 100 0 0 |  gfi Obsidian 100 0 0 |  gfi Obsidian 100 0 0 |  gfi Obsidian 100 0 0 |  gfi Obsidian 100 0 0 |  gfi Obsidian 100 0 0 |  gfi Obsidian 100 0 0 |  gfi PreservingSalt 6 0 0 |  gfi PreservingSalt 6 0 0 |  gfi PreservingSalt 6 0 0 |  gfi PreservingSalt 6 0 0 |  gfi PreservingSalt 6 0 0 |  gfi ElementOre 100 0 0 |  gfi ElementOre 100 0 0 |  gfi ElementOre 100 0 0 |  gfi ElementOre 100 0 0 |  gfi ElementOre 100 0 0 |  gfi ElementOre 100 0 0 |  gfi ElementOre 100 0 0 |  gfi ElementOre 100 0 0 |  gfi ElementOre 100 0 0 |  gfi ElementOre 100 0 0 |  gfi LeechBlood 50 0 0 |  gfi LeechBlood 50 0 0 |  gfi LeechBlood 50 0 0 |  gfi LeechBlood 50 0 0 |  gfi LeechBlood 50 0 0",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Mission Bypass",
+    "reward_category": "Mission Bypass",
+    "type": "Mission Bypass",
+    "gfi_path": "cheat DebugAllowVRMissionTeleport",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Mutagen",
+    "reward_category": "Mutagen",
+    "type": "Mutagen",
+    "gfi_path": "Mutagen",
+    "base_qty": 50,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Mutated Egg",
+    "reward_category": "Mutated Egg",
+    "type": "Mutated Egg",
+    "gfi_path": "cheat GetEgg 1",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Primitive Resource Pack",
+    "reward_category": "Primitive Resource Pack",
+    "type": "Primitive Resource Pack",
+    "gfi_path": "cheat gfi CactusSap 100 0 0 |  gfi CactusSap 100 0 0 |  gfi CactusSap 100 0 0 |  gfi CactusSap 100 0 0 |  gfi CactusSap 100 0 0 |  gfi CactusSap 100 0 0 |  gfi CactusSap 100 0 0 |  gfi CactusSap 100 0 0 |  gfi CactusSap 100 0 0 |  gfi CactusSap 100 0 0 |  gfi Fiber 300 0 0 |  gfi Fiber 300 0 0 |  gfi Fiber 300 0 0 |  gfi Fiber 100 0 0 |  gfi Flint 100 0 0 |  gfi Flint 100 0 0 |  gfi Flint 100 0 0 |  gfi Flint 100 0 0 |  gfi Flint 100 0 0 |  gfi Flint 100 0 0 |  gfi Flint 100 0 0 |  gfi Flint 100 0 0 |  gfi Flint 100 0 0 |  gfi Flint 100 0 0 |  gfi Hide 200 0 0 |  gfi Hide 200 0 0 |  gfi Hide 200 0 0 |  gfi Hide 200 0 0 |  gfi Hide 200 0 0 |  gfi Sand 100 0 0 |  gfi Sand 100 0 0 |  gfi Sand 100 0 0 |  gfi Sand 100 0 0 |  gfi Sand 100 0 0 |  gfi Sand 100 0 0 |  gfi Sand 100 0 0 |  gfi Sand 100 0 0 |  gfi Sand 100 0 0 |  gfi Sand 100 0 0 |  gfi Stone 100 0 0 |  gfi Stone 100 0 0 |  gfi Stone 100 0 0 |  gfi Stone 100 0 0 |  gfi Stone 100 0 0 |  gfi Stone 100 0 0 |  gfi Stone 100 0 0 |  gfi Stone 100 0 0 |  gfi Stone 100 0 0 |  gfi Stone 100 0 0 |  gfi Thatch 200 0 0 |  gfi Thatch 200 0 0 |  gfi Thatch 200 0 0 |  gfi Thatch 200 0 0 |  gfi Thatch 200 0 0 |  gfi Wood 100 0 0 |  gfi Wood 100 0 0 |  gfi Wood 100 0 0 |  gfi Wood 100 0 0 |  gfi Wood 100 0 0 |  gfi Wood 100 0 0 |  gfi Wood 100 0 0 |  gfi Wood 100 0 0 |  gfi Wood 100 0 0 |  gfi Wood 100 0 0 |  gfi FungalWood 100 0 0 |  gfi FungalWood 100 0 0 |  gfi FungalWood 100 0 0 |  gfi FungalWood 100 0 0 |  gfi FungalWood 100 0 0 |  gfi FungalWood 100 0 0 |  gfi FungalWood 100 0 0 |  gfi FungalWood 100 0 0 |  gfi FungalWood 100 0 0 |  gfi FungalWood 100 0 0",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Ramshackle Resource Pack",
+    "reward_category": "Ramshackle Resource Pack",
+    "type": "Ramshackle Resource Pack",
+    "gfi_path": "cheat gfi BioToxin 100 0 0 |  gfi Charcoal 100 0 0 |  gfi Charcoal 100 0 0 |  gfi Charcoal 100 0 0 |  gfi Charcoal 100 0 0 |  gfi Charcoal 100 0 0 |  gfi Chitin 100 0 0 |  gfi Chitin 100 0 0 |  gfi Chitin 100 0 0 |  gfi Chitin 100 0 0 |  gfi Chitin 100 0 0 |  gfi Keratin 100 0 0 |  gfi Keratin 100 0 0 |  gfi Keratin 100 0 0 |  gfi Keratin 100 0 0 |  gfi Keratin 100 0 0 |  gfi Metal 300 0 0 |  gfi Metal 300 0 0 |  gfi Metal 300 0 0 |  gfi Clay 100 0 0 |  gfi Clay 100 0 0 |  gfi Clay 100 0 0 |  gfi Clay 100 0 0 |  gfi Clay 100 0 0 |  gfi Silk 200 0 0 |  gfi Silk 200 0 0 |  gfi Silk 200 0 0 |  gfi Sparkpowder 100 0 0 |  gfi Sparkpowder 100 0 0 |  gfi Sparkpowder 100 0 0 |  gfi Sparkpowder 100 0 0 |  gfi Sparkpowder 100 0 0 |  gfi Sparkpowder 100 0 0 |  gfi Sparkpowder 100 0 0 |  gfi Sparkpowder 100 0 0 |  gfi Sparkpowder 100 0 0 |  gfi Sparkpowder 100 0 0 |  gfi Gem_CoreLight 100 0 0 |  gfi Gem_CoreLight 100 0 0 |  gfi Gem_CoreLight 100 0 0 |  gfi Gem_CoreLight 100 0 0 |  gfi Gem_CoreLight 100 0 0",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Reset Effectiveness",
+    "reward_category": "Reset Effectiveness",
+    "type": "Reset Effectiveness",
+    "gfi_path": "cheat TamingEffectivenessModifier 1",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Alpha Raptor Swim Bottom Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimPants_AlphaRaptor",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Alpha Raptor Swim Top Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimShirt_AlphaRaptor",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Angler Hat Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "AnglerHat",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Araneo Swim Bottom Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimPants_Araneo",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Araneo Swim Top Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimShirt_Araneo",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Basilisk Ghost Costume",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "GhostBasilisk",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Blue-Ball Winter Beanie Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "WinterHat_BlueBall",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Bonnet Hat Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "BonnetHat",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Bow & Eros Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "CupidBow",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Brachiosaurus Costume",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Costume_Brachiosaurus",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Bronto Bone Costume",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "BoneSauro",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Bulbdog Ghost Costume",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "GhostLanternPug",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Bulbdog-Print Shirt Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "HawaiianShirt_Bulbdog",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Bunny Costume Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "BunnySuit",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Bunny Ears Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "BunnyHat",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Bunny Tail Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "BunnyTail",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Candy Cane Club Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "CandyCane",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Carno Bone Costume",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "BoneCarno",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Chieftan Hat Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "ChieftanHat",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Chocolate Rabbit Club Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "ChocolateRabbit",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Christmas Bola Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "WW_Xmas_Bola",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Clown Mask Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "ClownMask",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Cool Noglin-Print Shirt Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "HawaiianShirt_Noglin",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Crab Fest Swim Bottom Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimPants_CrabFest",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Crab Fest Swim Top Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimShirt_CrabFest",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Cupid Couture Bottom Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Pants_Valentine",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Cupid Couture Top Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Shirt_Valentine",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Dilo Mask Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "DiloMask",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Dino Bunny Ears Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "DinoBunnyHat",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Dino Easter Chick Hat Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "DinoChickHat",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Dino Easter Egg Hat Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "DinoEasterEggHat",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Dino Ornament Swim Bottom Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimPants_DinoOrnament",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Dino Ornament Swim Top Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimShirt_DinoOrnament",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Dino Santa Hat Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "DinoSantaHat",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Dino Uncle Sam Hat Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "DinoUncleSamHat",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Dino Witch Hat Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "DinoWitchHat",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Direwolf Ghost Costume",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "GhostDirewolf",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Dodo Pie Swim Bottom Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimPants_DodoPie",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Dodo Pie Swim Top Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimShirt_DodoPie",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "DodoRex Mask Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "DodoRexMask",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "DodoWyvern Mask Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "DodoWyvernMask",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "E4 Remote Eggsplosives Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "C4_Easter",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Easter Chick Hat Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "ChickHat",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Easter Egg Hat Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "EasterEggHat",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Easter Egghead Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "EasterEgghead",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Eel Swim Bottom Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimPants_Eel",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Eel Swim Shorts Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimPants_Eel",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Eel Swim Top Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimShirt_Eel",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Felt Reindeer Antlers Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Antlers",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Fireworks Flaregun Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Flaregun_Fireworks",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Fireworks Rocket Launcher Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "RocketLauncher_Fireworks",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Fish Bite Swim Bottom Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimPants_FishBite",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Fish Bite Swim Top Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimShirt_FishBite",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Floaty Swim Bottom Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimPants_Floaty",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Floaty Swim Top Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimShirt_Floaty",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Floral Swim Bottom Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimPants_Floral",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Floral Swim Shorts Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimPants_Floral",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Floral Swim Top Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimShirt_Floral",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Flying Disc Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Boomerang_Frisbee",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Gasbags-Print Shirt Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "HawaiianShirt_GasBags",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Giga Poop Swim Bottom Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimPants_GigaPoop",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Giga Poop Swim Top Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimShirt_GigaPoop",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Giganotosaurus Bone Costume",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "BoneGigant",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Gray-Ball Winter Beanie Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "WinterHat_GrayBall",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Green-Ball Winter Beanie Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "WinterHat_GreenBall",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Grilling Spatula Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Club_Spatula",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Halo Headband Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Halo",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Headless Costume Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "FE_HeadlessHat",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Heart-shaped Shield Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Shield_Valentine",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Heart-shaped Sunglasses Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SunGlasses_Vday",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "HLN-A Winter Beanie Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "WinterHat_HLNA",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Hockey Mask Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "HockeyMask",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Hoversail-Print Shirt Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "HawaiianShirt_Hoversail",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Ice Pop-Print Shirt Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "HawaiianShirt_IcePop",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Ichthy Island Swim Bottom Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimPants_IchthyIsland",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Ichthy Isles Swim Top Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimShirt_IchthyIsland",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Inflatable Rex Costume Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "InflatableRex",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Jack-O-Lantern Swim Bottom Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimPants_Pumpkin",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Jack-O-Lantern Swim Short Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimPants_Pumpkin",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Jack-O-Lantern Swim Top Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimShirt_Pumpkin",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Jack-O-Lantern-Print Shirt Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "HawaiianShirt_Pumpkin",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Jellyfish Swim Shorts Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimPants_Jellyfish",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Jellyfish Swim Top Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimShirt_Jellyfish",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Jerboa Bone Costume",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "BoneJerboa",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Jerboa Wreath Swim Bottom Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimPants_JerboaWreath",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Jerboa Wreath Swim Top Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimShirt_JerboaWreath",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Love Shackles Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Shackles",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Mantis Ghost Costume",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "GhostMantis",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Marshmallow Hat Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "MarshmallowHat",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Meat Swim Bottom Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimPants_Meat",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Meat Swim Top Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimShirt_Meat",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Megaloceros Reindeer Costume",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Reindeer",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Murder Turkey Swim Bottom Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimPants_MurderTurkey",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Murder Turkey Swim Top Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimShirt_MurderTurkey",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Noglin Regift Winter Beanie Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "WinterHat_NoglinRegift",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Noglin Swim Bottom Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimPants_Noglin",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Noglin Swim Top Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimShirt_Noglin",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Nutcracker Slingshot Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Nutcracker",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Odd Couple Swim Bottom Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimPants_OddCouple",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Odd Couple Swim Top Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimShirt_OddCouple",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Onyc Swim Bottom Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimPants_Onyc",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Onyc Swim Top Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimShirt_Onyc",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Pilgrim Hat Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "PilgrimHat",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Pitchfork Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Pitchfork",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Procoptodon Bunny Costume",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "ProcopBunny",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Purple-Ball Winter Beanie Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "WinterHat_PurpleBall",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Purple-Ball Winter Beanie Skin (Winter Wonderland 5)",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "WinterHat_PurpleBall",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Quetzalcoatlus Bone Costume",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "BoneQuetz",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Raptor Bone Costume",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "BoneRaptor",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Raptor Sleighing Winter Beanie Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "WinterHat_RaptorSleigh",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Reaper Ghost Costume",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "GhostReaper",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Reaper Swim Bottom Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimPants_Reaper",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Reaper Swim Top Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimShirt_Reaper",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Reaper-Print Shirt Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "HawaiianShirt_Reaper",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Red-Ball Winter Beanie Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "WinterHat_RedBall",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Retro Sunglasses Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "RetroSunglasses",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Rex Bone Costume",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "BoneRex",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Rex Bone Helmet Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "BoneRexHelmet",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Rex Ghost Costume",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "GhostRex",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Santa Costume Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Santa",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Santa Hat Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SantaHat",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Santiago's Axe Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SantiagoAxe",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Santiago's Spear Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SantiagoSpear",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Sauropod Heart Swim Bottom Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimPants_SauropodHeart",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Sauropod Heart Swim Top Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimShirt_SauropodHeart",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Scary Dino Pumpkin Helmet Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "DinoScaryPumpkinHelmet",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Scary Pumpkin Helmet Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "ScaryPumpkinHelmet",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Sea Life-Print Shirt Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "HawaiianShirt_SeaLife",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Shadowmane Fishing-Print Shirt Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "HawaiianShirt_Shadowmane",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Skeleton Costume Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "FE_SkeletonSuit",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Skelly-Print Shirt Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "HawaiianShirt_Skeleton",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Snow Owl Ghost Costume",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "GhostOwl",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Snowy Winter Beanie Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "WinterHat_Snowy",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Stego Bone Costume",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "BoneStego",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Strawman Costume Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "StrawmanHat",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Stygimoloch Costume",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Costume_Stygimoloch",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Styracosaurus Costume",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Costume_Styracosaurus",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Sunglasses Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SunGlasses",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Sweet Spear Carrot Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Spear_Carrot",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "T-Rex Swim Bottom Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimPants_TRex",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "T-Rex Swim Top Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimShirt_TRex",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Tentacle-Print Shirt Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "HawaiianShirt_Tentacle",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Top Hat Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "TopHat",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Torch Sparkler Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "TorchSparkler",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Trike Bone Costume",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "BoneTrike",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Trike Bone Helmet Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "BoneTrikeHelmet",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Turkey Costume Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "TurkeySuit",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Turkey Hat Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "TurkeyHat",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Turkey Leg Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "TurkeyLeg",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Turkey Swim Bottom Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimPants_Turkey",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Turkey Swim Top Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimShirt_Turkey",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Ugly Bronto Sweater Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Sweater_Bronto",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Ugly Bulbdog Sweater Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Sweater_Bulbdog",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Ugly Carno Sweater Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Sweater_Carno",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Ugly Caroling Sweater Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Sweater_Caroling",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Ugly Chibi Sweater Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Sweater_Chibi",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Ugly Cornucopia Sweater Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Sweater_Cornucopia",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Ugly Dodo's Revenge Sweater Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Sweater_DodosRevenge",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Ugly Foliage Friends Sweater Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Sweater_FoliageFriends",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Ugly Noglin Regift Sweater Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Sweater_NoglinRegift",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Ugly Raptor Claws Sweater Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Sweater_RaptorClaws",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Ugly Rockwell Sweater Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Sweater_Rockwell",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Ugly T-Rex Sweater Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Sweater_TRex",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Ugly Trike Sweater Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Sweater_Trike",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Ugly Turkey Target Sweater Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "Sweater_TurkeyTarget",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Uncle Sam Hat Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "UncleSamHat",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Vampire Dodo Swim Bottom Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimPants_VampireDodo",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Vampire Dodo Swim Top Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimShirt_VampireDodo",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Vampire Eyes Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "VampireEyes",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Water Soaker Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "WaterSoaker",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Werewolf Mask Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "WerewolfMask",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Witch Hat Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "WitchHat",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Wyvern Bone Costume",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "BoneWyvern",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Yeti Swim Bottom Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimPants_Yeti",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Yeti Swim Top Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "SwimShirt_Yeti",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "ZombDodo-Print Shirt Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "HawaiianShirt_ZombDodo",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Zombie Wyvern-Print Shirt Skin",
+    "reward_category": "Skin",
+    "type": "Skin",
+    "gfi_path": "HawaiianShirt_ZombieWyvern",
+    "base_qty": 1,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Teleport to Nearest Tower Defence",
+    "reward_category": "Teleport",
+    "type": "Tower Defence",
+    "gfi_path": "cheat TeleportToActiveHorde 0",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Time Selector Card",
+    "reward_category": "Time",
+    "type": "Time Travel",
+    "gfi_path": "SetTimeOfTheDay",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Start Desert Rain",
+    "reward_category": "Weather",
+    "type": "Scorched Earth",
+    "gfi_path": "cheat CE start_rain",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Start Earthquake",
+    "reward_category": "Weather",
+    "type": "Aberration",
+    "gfi_path": "cheat CE startquake",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Start Electric Storm",
+    "reward_category": "Weather",
+    "type": "Scorched Earth",
+    "gfi_path": "cheat CE start_electricalstorm",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Start Fog",
+    "reward_category": "Weather",
+    "type": "The Island",
+    "gfi_path": "cheat CE fogitup",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Start Heatwave",
+    "reward_category": "Weather",
+    "type": "The Island",
+    "gfi_path": "cheat CE heatwave",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Start Meteor Shower",
+    "reward_category": "Weather",
+    "type": "Extinction",
+    "gfi_path": "cheat CE \"\"start meteors\"\"",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Start Rag Electric Storm",
+    "reward_category": "Weather",
+    "type": "Ragnarok",
+    "gfi_path": "cheat CE \"\"start electricalstorm\"\"",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Start Rag Rain",
+    "reward_category": "Weather",
+    "type": "Ragnarok",
+    "gfi_path": "cheat CE \"\"start rain\"\"",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Start Rag Sandstorm",
+    "reward_category": "Weather",
+    "type": "Ragnarok",
+    "gfi_path": "cheat CE \"\"start sandstorm\"\"",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Start Rag Superheatwave",
+    "reward_category": "Weather",
+    "type": "Ragnarok",
+    "gfi_path": "cheat CE \"\"start superheat\"\"",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Start Rain",
+    "reward_category": "Weather",
+    "type": "The Island",
+    "gfi_path": "cheat CE makeitrain",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Start Sandstorm",
+    "reward_category": "Weather",
+    "type": "Scorched Earth",
+    "gfi_path": "cheat CE start_sandstorm",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Start Superheatwave",
+    "reward_category": "Weather",
+    "type": "Scorched Earth",
+    "gfi_path": "cheat CE start_superheat",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Stop Desert Rain",
+    "reward_category": "Weather",
+    "type": "Scorched Earth",
+    "gfi_path": "cheat CE stop_rain",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Stop Earthquake",
+    "reward_category": "Weather",
+    "type": "Aberration",
+    "gfi_path": "cheat CE stopquake",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Stop Electric Storm",
+    "reward_category": "Weather",
+    "type": "Scorched Earth",
+    "gfi_path": "cheat CE stop_electricalstorm",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Stop Fog",
+    "reward_category": "Weather",
+    "type": "The Island",
+    "gfi_path": "cheat CE stopfog",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Stop Heatwave",
+    "reward_category": "Weather",
+    "type": "The Island",
+    "gfi_path": "cheat CE coldfront",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Stop Rag Electric Storm",
+    "reward_category": "Weather",
+    "type": "Ragnarok",
+    "gfi_path": "cheat CE \"\"stop electricalstorm\"\"",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Stop Rag Rain",
+    "reward_category": "Weather",
+    "type": "Ragnarok",
+    "gfi_path": "cheat CE \"\"stop rain\"\"",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Stop Rag Sandstorm",
+    "reward_category": "Weather",
+    "type": "Ragnarok",
+    "gfi_path": "cheat CE \"\"stop sandstorm\"\"",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Stop Rag Superheatwave",
+    "reward_category": "Weather",
+    "type": "Ragnarok",
+    "gfi_path": "cheat CE \"\"stop superheat\"\"",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Stop Rain",
+    "reward_category": "Weather",
+    "type": "The Island",
+    "gfi_path": "cheat CE stoprain",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Stop Sandstorm",
+    "reward_category": "Weather",
+    "type": "Scorched Earth",
+    "gfi_path": "cheat CE stop_sandstorm",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Stop Superheatwave",
+    "reward_category": "Weather",
+    "type": "Scorched Earth",
+    "gfi_path": "cheat CE stop_superheat",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Wake Up Volcano",
+    "reward_category": "Weather",
+    "type": "Ragnarok",
+    "gfi_path": "cheat CE Start_Volcano",
+    "base_qty": 0,
+    "requires_quality": 0
+  },
+  {
+    "item_name": "Wild Wipe Card",
+    "reward_category": "Wipe",
+    "type": "Purge",
+    "gfi_path": "cheat DestroyWildDinos",
+    "base_qty": 0,
+    "requires_quality": 0
+  }
+]

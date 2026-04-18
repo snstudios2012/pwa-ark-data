@@ -1,0 +1,366 @@
+[
+  {
+    "creature": "Achatina",
+    "tamed_": null
+  },
+  {
+    "creature": "Allosaurus",
+    "tamed_": null
+  },
+  {
+    "creature": "Angler",
+    "tamed_": null
+  },
+  {
+    "creature": "Ankylosaurus",
+    "tamed_": null
+  },
+  {
+    "creature": "Araneo",
+    "tamed_": null
+  },
+  {
+    "creature": "Archaeopteryx",
+    "tamed_": null
+  },
+  {
+    "creature": "Argentavis",
+    "tamed_": null
+  },
+  {
+    "creature": "Arthropluera",
+    "tamed_": null
+  },
+  {
+    "creature": "Baryonyx",
+    "tamed_": null
+  },
+  {
+    "creature": "Basilosaurus",
+    "tamed_": null
+  },
+  {
+    "creature": "Beelzebufo",
+    "tamed_": null
+  },
+  {
+    "creature": "Brontosaurus",
+    "tamed_": null
+  },
+  {
+    "creature": "Carbonemys",
+    "tamed_": null
+  },
+  {
+    "creature": "Carcharodontosaurus",
+    "tamed_": null
+  },
+  {
+    "creature": "Carno",
+    "tamed_": null
+  },
+  {
+    "creature": "Castoroides",
+    "tamed_": null
+  },
+  {
+    "creature": "Chalicotherium",
+    "tamed_": null
+  },
+  {
+    "creature": "Compy",
+    "tamed_": null
+  },
+  {
+    "creature": "Daeodon",
+    "tamed_": null
+  },
+  {
+    "creature": "Dilophosaurus",
+    "tamed_": null
+  },
+  {
+    "creature": "Dimetrodon",
+    "tamed_": null
+  },
+  {
+    "creature": "Dimorphodon",
+    "tamed_": null
+  },
+  {
+    "creature": "Diplocaulus",
+    "tamed_": null
+  },
+  {
+    "creature": "Diplodocus",
+    "tamed_": null
+  },
+  {
+    "creature": "Dire Bear",
+    "tamed_": null
+  },
+  {
+    "creature": "Direwolf",
+    "tamed_": null
+  },
+  {
+    "creature": "Dodo",
+    "tamed_": null
+  },
+  {
+    "creature": "Doedicurus",
+    "tamed_": null
+  },
+  {
+    "creature": "Dung Beetle",
+    "tamed_": null
+  },
+  {
+    "creature": "Dunkleosteus",
+    "tamed_": null
+  },
+  {
+    "creature": "Electrophorus",
+    "tamed_": null
+  },
+  {
+    "creature": "Equus",
+    "tamed_": null
+  },
+  {
+    "creature": "Gallimimus",
+    "tamed_": null
+  },
+  {
+    "creature": "Giant Queen Bee",
+    "tamed_": null
+  },
+  {
+    "creature": "Giganotosaurus",
+    "tamed_": null
+  },
+  {
+    "creature": "Gigantopithecus",
+    "tamed_": null
+  },
+  {
+    "creature": "Hesperornis",
+    "tamed_": null
+  },
+  {
+    "creature": "Hyaenodon",
+    "tamed_": null
+  },
+  {
+    "creature": "Ichthyornis",
+    "tamed_": null
+  },
+  {
+    "creature": "Ichthyosaurus",
+    "tamed_": null
+  },
+  {
+    "creature": "Iguanodon",
+    "tamed_": null
+  },
+  {
+    "creature": "Kairuku",
+    "tamed_": null
+  },
+  {
+    "creature": "Kaprosuchus",
+    "tamed_": null
+  },
+  {
+    "creature": "Kentrosaurus",
+    "tamed_": null
+  },
+  {
+    "creature": "Liopleurodon",
+    "tamed_": null
+  },
+  {
+    "creature": "Lystrosaurus",
+    "tamed_": null
+  },
+  {
+    "creature": "Mammoth",
+    "tamed_": null
+  },
+  {
+    "creature": "Manta",
+    "tamed_": null
+  },
+  {
+    "creature": "Megalania",
+    "tamed_": null
+  },
+  {
+    "creature": "Megaloceros",
+    "tamed_": null
+  },
+  {
+    "creature": "Megalodon",
+    "tamed_": null
+  },
+  {
+    "creature": "Megalosaurus",
+    "tamed_": null
+  },
+  {
+    "creature": "Megatherium",
+    "tamed_": null
+  },
+  {
+    "creature": "Mesopithecus",
+    "tamed_": null
+  },
+  {
+    "creature": "Microraptor",
+    "tamed_": null
+  },
+  {
+    "creature": "Mosasaurus",
+    "tamed_": null
+  },
+  {
+    "creature": "Moschops",
+    "tamed_": null
+  },
+  {
+    "creature": "Onyc",
+    "tamed_": null
+  },
+  {
+    "creature": "Otter",
+    "tamed_": null
+  },
+  {
+    "creature": "Oviraptor",
+    "tamed_": null
+  },
+  {
+    "creature": "Ovis",
+    "tamed_": null
+  },
+  {
+    "creature": "Pachy",
+    "tamed_": null
+  },
+  {
+    "creature": "Pachyrhinosaurus",
+    "tamed_": null
+  },
+  {
+    "creature": "Paraceratherium",
+    "tamed_": null
+  },
+  {
+    "creature": "Parasaur",
+    "tamed_": null
+  },
+  {
+    "creature": "Pegomastax",
+    "tamed_": null
+  },
+  {
+    "creature": "Pelagornis",
+    "tamed_": null
+  },
+  {
+    "creature": "Phiomia",
+    "tamed_": null
+  },
+  {
+    "creature": "Plesiosaur",
+    "tamed_": null
+  },
+  {
+    "creature": "Procoptodon",
+    "tamed_": null
+  },
+  {
+    "creature": "Pteranodon",
+    "tamed_": null
+  },
+  {
+    "creature": "Pulmonoscorpius",
+    "tamed_": null
+  },
+  {
+    "creature": "Purlovia",
+    "tamed_": null
+  },
+  {
+    "creature": "Quetzal",
+    "tamed_": null
+  },
+  {
+    "creature": "Raptor",
+    "tamed_": null
+  },
+  {
+    "creature": "Rex",
+    "tamed_": null
+  },
+  {
+    "creature": "Rhyniognatha",
+    "tamed_": null
+  },
+  {
+    "creature": "Sabertooth",
+    "tamed_": null
+  },
+  {
+    "creature": "Sarco",
+    "tamed_": null
+  },
+  {
+    "creature": "Spinosaurus",
+    "tamed_": null
+  },
+  {
+    "creature": "Stegosaurus",
+    "tamed_": null
+  },
+  {
+    "creature": "Tapejara",
+    "tamed_": null
+  },
+  {
+    "creature": "Terror Bird",
+    "tamed_": null
+  },
+  {
+    "creature": "Therizinosaurus",
+    "tamed_": null
+  },
+  {
+    "creature": "Thylacoleo",
+    "tamed_": null
+  },
+  {
+    "creature": "Titanosaur",
+    "tamed_": null
+  },
+  {
+    "creature": "Trike",
+    "tamed_": null
+  },
+  {
+    "creature": "Troodon",
+    "tamed_": null
+  },
+  {
+    "creature": "Tusoteuthis",
+    "tamed_": null
+  },
+  {
+    "creature": "Woolly Rhino",
+    "tamed_": null
+  },
+  {
+    "creature": "Yutyrannus",
+    "tamed_": null
+  }
+]

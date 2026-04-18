@@ -1,0 +1,146 @@
+[
+  {
+    "id": "map_island",
+    "name": "The Island",
+    "category": "map_choice",
+    "spawnBlueprint": null,
+    "needsMath": null,
+    "isRestricted": false
+  },
+  {
+    "id": "map_scorched_earth",
+    "name": "Scorched Earth",
+    "category": "map_choice",
+    "spawnBlueprint": null,
+    "needsMath": null,
+    "isRestricted": false
+  },
+  {
+    "id": "map_aberration",
+    "name": "Aberration",
+    "category": "map_choice",
+    "spawnBlueprint": null,
+    "needsMath": null,
+    "isRestricted": false
+  },
+  {
+    "id": "map_extinction",
+    "name": "Extinction",
+    "category": "map_choice",
+    "spawnBlueprint": null,
+    "needsMath": null,
+    "isRestricted": false
+  },
+  {
+    "id": "map_genesis1",
+    "name": "Genesis 1",
+    "category": "map_choice",
+    "spawnBlueprint": null,
+    "needsMath": null,
+    "isRestricted": false
+  },
+  {
+    "id": "map_genesis2",
+    "name": "Genesis 2",
+    "category": "map_choice",
+    "spawnBlueprint": null,
+    "needsMath": null,
+    "isRestricted": false
+  },
+  {
+    "id": "map_ragnarok",
+    "name": "Ragnarok",
+    "category": "map_choice",
+    "spawnBlueprint": null,
+    "needsMath": null,
+    "isRestricted": false
+  },
+  {
+    "id": "tame_stego",
+    "name": "Stegosaurus",
+    "category": "tame",
+    "spawnBlueprint": "cheat spawndino \"Blueprint'/Game/PrimalEarth/Dinos/Stego/BionicStego_Character_BP.BionicStego_Character_BP'\" 500 0 200",
+    "needsMath": "level",
+    "isRestricted": false
+  },
+  {
+    "id": "tame_argent",
+    "name": "Argentavis",
+    "category": "tame",
+    "spawnBlueprint": "cheat spawndino \"Blueprint'/Game/Genesis/Dinos/BiomeVariants/Snow_Argentavis/Snow_Argent_Character_BP.Snow_Argent_Character_BP'\" 500 0 200",
+    "needsMath": "level",
+    "isRestricted": true
+  },
+  {
+    "id": "tame_baryonix",
+    "name": "Baryonyx",
+    "category": "tame",
+    "spawnBlueprint": "cheat spawndino \"Blueprint'/Game/PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP.Baryonyx_Character_BP'\" 500 0 200",
+    "needsMath": "level",
+    "isRestricted": false
+  },
+  {
+    "id": "tame_direbear",
+    "name": "Direbear",
+    "category": "tame",
+    "spawnBlueprint": "cheat spawndino \"Blueprint'/Game/PrimalEarth/Dinos/Direbear/Direbear_Character_BP.Direbear_Character_BP'\" 500 0 200",
+    "needsMath": "level",
+    "isRestricted": false
+  },
+  {
+    "id": "tame_tapejara",
+    "name": "Tapejara",
+    "category": "tame",
+    "spawnBlueprint": "cheat spawndino \"Blueprint'/Game/Genesis/Dinos/BiomeVariants/Bog_Tapejara/Bog_Tapejara_Character_BP.Bog_Tapejara_Character_BP'\" 500 0 200",
+    "needsMath": "level",
+    "isRestricted": true
+  },
+  {
+    "id": "tame_phoenix",
+    "name": "Phoenix",
+    "category": "tame",
+    "spawnBlueprint": "cheat spawndino \"Blueprint'/Game/ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP.Phoenix_Character_BP'\" 500 0 200",
+    "needsMath": "level",
+    "isRestricted": true
+  },
+  {
+    "id": "tame_mantis",
+    "name": "Mantis",
+    "category": "tame",
+    "spawnBlueprint": "cheat spawndino \"Blueprint'/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP'\" 500 0 200",
+    "needsMath": "level",
+    "isRestricted": true
+  },
+  {
+    "id": "tame_basilisk",
+    "name": "Basilisk",
+    "category": "tame",
+    "spawnBlueprint": "cheat spawndino \"Blueprint'/Game/Aberration/Dinos/Basilisk/Basilisk_Character_BP.Basilisk_Character_BP'\" 500 0 200",
+    "needsMath": "level",
+    "isRestricted": false
+  },
+  {
+    "id": "tame_gasbags",
+    "name": "Gasbags",
+    "category": "tame",
+    "spawnBlueprint": "cheat spawndino \"Blueprint'/Game/Extinction/Dinos/GasBag/GasBags_Character_BP.GasBags_Character_BP'\" 500 0 200",
+    "needsMath": "level",
+    "isRestricted": false
+  },
+  {
+    "id": "tame_bloodstalker",
+    "name": "Bloodstalker",
+    "category": "tame",
+    "spawnBlueprint": "cheat spawndino \"Blueprint'/Game/Genesis/Dinos/BogSpider/BogSpider_Character_BP.BogSpider_Character_BP'\" 500 0 200",
+    "needsMath": "level",
+    "isRestricted": false
+  },
+  {
+    "id": "tame_maewing",
+    "name": "Maewing",
+    "category": "tame",
+    "spawnBlueprint": "cheat spawndino \"Blueprint'/Game/Genesis2/Dinos/MilkGlider/MilkGlider_Character_BP.MilkGlider_Character_BP'\" 500 0 200",
+    "needsMath": "level",
+    "isRestricted": false
+  }
+]
