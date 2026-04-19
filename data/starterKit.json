@@ -163,7 +163,7 @@
     "id": "tool_spyglass",
     "name": "Spyglass",
     "category": "tool",
-    "spawn_blueprint": "cheat gfi WeaponSpyglass",
+    "spawn_blueprint": "WeaponSpyglass",
     "needs_math": "none",
     "restricted": "na"
   },
@@ -171,7 +171,7 @@
     "id": "tool_pick",
     "name": "Metal Pickaxe",
     "category": "tool",
-    "spawn_blueprint": "cheat gfi WeaponMetalPick",
+    "spawn_blueprint": "WeaponMetalPick",
     "needs_math": "quality",
     "restricted": "na"
   },
@@ -179,7 +179,7 @@
     "id": "tool_hatchet",
     "name": "Metal Hatchet",
     "category": "tool",
-    "spawn_blueprint": "cheat gfi WeaponMetalHatchet",
+    "spawn_blueprint": "WeaponMetalHatchet",
     "needs_math": "quality",
     "restricted": "na"
   },
@@ -187,7 +187,7 @@
     "id": "weapon_sword",
     "name": "Sword",
     "category": "weapon",
-    "spawn_blueprint": "cheat gfi WeaponSword",
+    "spawn_blueprint": "WeaponSword",
     "needs_math": "quality",
     "restricted": "na"
   },
@@ -195,7 +195,7 @@
     "id": "weapon_crossbow",
     "name": "Crossbow",
     "category": "weapon",
-    "spawn_blueprint": "cheat gfi WeaponCrossbow",
+    "spawn_blueprint": "WeaponCrossbow",
     "needs_math": "quality",
     "restricted": "na"
   },
@@ -203,7 +203,7 @@
     "id": "ammo_tranq_arrows",
     "name": "Tranq Arrows",
     "category": "ammo",
-    "spawn_blueprint": "cheat gfi Ammo_ArrowTranq",
+    "spawn_blueprint": "Ammo_ArrowTranq",
     "needs_math": "quality",
     "restricted": "na"
   }
