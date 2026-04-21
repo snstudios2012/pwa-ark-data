@@ -1,6 +1,6 @@
 {
-  "version": 1.3,
-  "notes": "Updated starterKit.json for missing items",
-  "date": "2026-04-19"
+  "version": 2.0,
+  "notes": "Removed all CSV files",
+  "date": "2026-04-21"
 }
 
