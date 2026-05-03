@@ -1,6 +1,30 @@
 {
-  "version": 2.0,
-  "notes": "Removed all CSV files",
-  "date": "2026-04-21"
+  "version": 1,
+  "last_updated": "2026-05-03",
+  "notes": "Incremental Sync System Initialized",
+  "manifest": {
+    "values.json": "v1_0",
+    "aliases.json": "v1_0",
+    "equalColorIds.json": "v1_0",
+    "kibbles.json": "v1_0",
+    "namePatternTemplates.json": "v1_0",
+    "serverMultipliers.json": "v1_0", 
+    "tamingFoodData.json": "v1_0",
+    "blacklist.json": "v1_0",
+    "campaignPursuits.json": "v1_0",
+    "cardDB.json": "v1_0",
+    "chibiDB.json": "v1_0",
+    "colorDB.json": "v1_0",
+    "dailyPursuitsCalendar.json": "v1_0",
+    "masterZoologist.json": "v1_0",
+    "pursuitsDB.json": "v1_0",
+    "resourceLibrary.json": "v1_0",
+    "rewardsLibrary.json": "v1_0",
+    "shop.json": "v1_0",
+    "starterKit.json": "v1_0",
+    "tameDB.json": "v1_0",
+    "sortNames.txt": "v1_0",
+    "variantsDefaultUnselected.txt": "v1_0"
+  },
+  "deleted": []
 }
-
